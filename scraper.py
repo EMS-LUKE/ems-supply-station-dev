@@ -8,6 +8,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
+requests.packages.urllib3.disable_warnings()
 
 OUTPUT_JSON = Path("data/courses.json")
 OUTPUT_DOCS_JSON = Path("docs/data/courses.json")
@@ -102,7 +103,7 @@ def _get_session(host):
     })
     try:
         # 先訪問首頁，讓伺服器設定 Session Cookie
-        s.get(f"http://{host}/", timeout=10, allow_redirects=True)
+        s.get(f"http://{host}/", timeout=10, allow_redirects=True, verify=False)
         time.sleep(0.5)
     except: pass
     _SESSION_CACHE[host] = s
@@ -125,7 +126,7 @@ def fetch(url, timeout=10, encoding=None):
         _s.headers["Referer"] = f"http://{_host}/"
         for attempt in range(2):
             try:
-                r = _s.get(url, timeout=timeout, allow_redirects=True)
+                r = _s.get(url, timeout=timeout, allow_redirects=True, verify=False)
                 r.raise_for_status()
                 r.encoding = encoding or r.apparent_encoding or "utf-8"
                 return BeautifulSoup(r.text, "html.parser")
@@ -146,7 +147,7 @@ def fetch(url, timeout=10, encoding=None):
     }
     for attempt in range(2):  # 最多重試一次
         try:
-            r = requests.get(url, headers=_headers, timeout=timeout, allow_redirects=True)
+            r = requests.get(url, headers=_headers, timeout=timeout, allow_redirects=True, verify=False)
             r.raise_for_status()
             # 指定編碼（Big5 優先，否則自動偵測）
             r.encoding = encoding or r.apparent_encoding or "utf-8"
@@ -1888,6 +1889,177 @@ def build_rss(items):
 # ══════════════════════════════════════════════════════
 # 主程式
 # ══════════════════════════════════════════════════════
+def _text_get(url, timeout=15):
+    """Fetch text for newer Taiwan sites that use CSV/JSON/AJAX feeds."""
+    r = requests.get(url, headers=HEADERS, timeout=timeout, allow_redirects=True, verify=False)
+    r.raise_for_status()
+    try:
+        return r.content.decode("utf-8-sig")
+    except Exception:
+        r.encoding = r.apparent_encoding or "utf-8"
+        return r.text
+
+def _csv_dicts(url):
+    import csv, io
+    return list(csv.DictReader(io.StringIO(_text_get(url))))
+
+def _first_url(text, fallback):
+    m = re.search(r"https?://[^\s<>'\"]+", text or "")
+    return m.group(0) if m else fallback
+
+def _date_from_any(*parts):
+    dates = extract_all_dates(" ".join(p or "" for p in parts))
+    return dates[-1] if dates else None
+
+def _courseish(text):
+    return any(k in (text or "") for k in ["課程", "訓練", "研討", "工作坊", "報名", "講習", "活動", "繼續教育", "急救", "救命術", "NRP"])
+
+def scrape_twparamedicine():
+    out = []
+    url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQfiEDEtIn6BJMw1VPnVLOps_mi2fgitOb7B8t9Wx0rEnpnuocIcvKEaGj_5q2M22la4oQPrd-tiE3N/pub?output=csv"
+    for row in _csv_dicts(url):
+        title = clean(row.get("title_zh") or row.get("title_en"))
+        if not title: continue
+        tag = clean(row.get("tag") or row.get("committee"))
+        body = clean(row.get("desc_zh") or row.get("desc_en"))
+        link = clean(row.get("link")) or _first_url(body, "https://twparamedicine.org/news.html")
+        itype = "course" if _courseish(tag + title + body[:80]) else "news"
+        out.append(mk(title, "台灣醫療救護學會", "台灣學會", link, itype, _date_from_any(row.get("date"), title, body)))
+    return out[:30]
+
+def scrape_twdmat():
+    out = []
+    url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSV1Hj2V0Xc1MMFSVime2_EmGN9_Gh30UGLt0eK29w-g8SJcurqDvhPrm0GXlrLfA4ChkqDVbzmmc6Q/pub?output=csv"
+    for row in _csv_dicts(url):
+        if clean(row.get("Status")).lower() not in ("true", "1", "yes", "y"): continue
+        title = clean(row.get("Title_zh") or row.get("Title_en"))
+        if not title: continue
+        cat_text = clean(row.get("Category_zh") or row.get("Category_en"))
+        body = clean(row.get("Summary_zh") or row.get("Description_zh"))
+        itype = "course" if _courseish(cat_text + title + body[:80]) else "news"
+        link = clean(row.get("Link_URL")) or "https://twdmat.org/"
+        out.append(mk(title, "台灣災難醫療隊發展協會", "台灣協會", link, itype, _date_from_any(title, body)))
+    return out[:20]
+
+def scrape_emt():
+    out = []
+    base = "https://www.emt.org.tw/temtaf/"
+    try:
+        data = requests.get(base + "CmWelcome_getNews", headers=HEADERS, timeout=15, verify=False).json()
+        for n in data.get("news", []):
+            title = clean(n.get("title"))
+            if not title: continue
+            category = clean(n.get("category"))
+            itype = "course" if category == "C" or _courseish(title) else "news"
+            url = base + "GpBulletinDtl?bulletin=" + clean(n.get("bullId"))
+            out.append(mk(title, "中華緊急救護技術員協會", "台灣協會", url, itype, _date_from_any(n.get("date"), title)))
+    except Exception as e:
+        log(f"    [warn] EMT JSON 失敗: {e}")
+    return out[:20]
+
+def scrape_tafm():
+    out = []
+    base = "https://www.tafm.org.tw"
+    soup = fetch(base + "/ehc-tafm/s/index.htm")
+    if not soup: return out
+    for a in soup.select("a[href*='/news_news/article/']"):
+        title = clean(a.get_text())
+        if len(title) < 5: continue
+        parent = a.find_parent(["li", "div"]) or a
+        out.append(mk(title, "台灣家庭醫學醫學會", "台灣學會", resolve(a.get("href"), base), "news", _date_from_any(parent.get_text(" "))))
+    for a in soup.select("a[href*='/edu/scheduleInfo1/schedule/']"):
+        title = clean(a.get_text())
+        if len(title) < 5: continue
+        parent = a.find_parent(["li", "div"]) or a
+        out.append(mk(title, "台灣家庭醫學醫學會", "台灣學會", resolve(a.get("href"), base), "course", _date_from_any(title, parent.get_text(" "))))
+    seen, unique = set(), []
+    for it in out:
+        if it["id"] not in seen:
+            seen.add(it["id"]); unique.append(it)
+    return unique[:30]
+
+def scrape_dpac():
+    out = []
+    base = "https://dpac.org.tw"
+    soup = fetch(base + "/")
+    if not soup: return out
+    for a in soup.select("a[href]"):
+        title = clean(a.get_text(" "))
+        href = resolve(a.get("href"), base)
+        if len(title) < 4 or href.startswith("javascript"): continue
+        if not any(p in href for p in ["/post/", "/opg/", "/blog"]): continue
+        itype = "course" if _courseish(title) else "news"
+        out.append(mk(title, "彰化縣防災協會（DPAC）", "台灣協會", href, itype, _date_from_any(title)))
+    seen, unique = set(), []
+    for it in out:
+        if it["id"] not in seen:
+            seen.add(it["id"]); unique.append(it)
+    return unique[:20]
+
+def scrape_webtema():
+    out = []
+    feed = "https://temataiwan.blogspot.com/feeds/posts/default?alt=json&max-results=20"
+    try:
+        data = requests.get(feed, headers=HEADERS, timeout=15, verify=False).json()
+        for entry in data.get("feed", {}).get("entry", []):
+            title = clean(entry.get("title", {}).get("$t"))
+            if not title: continue
+            link = next((l.get("href") for l in entry.get("link", []) if l.get("rel") == "alternate"), "https://temataiwan.blogspot.com/")
+            published = entry.get("published", {}).get("$t", "")[:10]
+            out.append(mk(title, "台灣緊急應變管理協會", "台灣協會", link, "course" if _courseish(title) else "news", published or None))
+    except Exception as e:
+        log(f"    [warn] WEBTEMA feed 失敗: {e}")
+    return out[:20]
+
+def scrape_tsn():
+    out = []
+    base = "https://tsn-neonatology.com/"
+    for endpoint, itype in [("news_list.aspx?q=get&r=1&newsKind=", "news"), ("event_list.aspx?q=get&r=1", "course")]:
+        try:
+            data = requests.get(base + endpoint, headers={**HEADERS, "X-Requested-With": "XMLHttpRequest"}, timeout=15, verify=False).json()
+            for row in data.get("list", {}).get("items", []):
+                title = clean(row.get("Title"))
+                if not title: continue
+                page = "event_content.aspx" if itype == "course" else "news_content.aspx"
+                url = base + f"{page}?id={row.get('Id')}"
+                date = _date_from_any(row.get("StartDate"), row.get("PublishDate"), title)
+                out.append(mk(title, "台灣新生兒科醫學會", "台灣學會", url, itype, date))
+        except Exception as e:
+            log(f"    [warn] TSN {itype} 失敗: {e}")
+    return out[:40]
+
+def scrape_sma():
+    out = []
+    base = "https://www.sma.org.tw/"
+    soup = fetch(base + "news.html")
+    if not soup: return out
+    for a in soup.select("a[href]"):
+        title = clean(a.get_text(" "))
+        href = resolve(a.get("href"), base)
+        if len(title) < 5 or any(s in title for s in ["首頁", "關於學會", "相關網站", "聯絡"]): continue
+        if "news" in href or "form" in href or _courseish(title):
+            out.append(mk(title, "台灣運動醫學學會", "台灣學會", href, "course" if _courseish(title) else "news", _date_from_any(title)))
+    return out[:15]
+
+def scrape_pediatr():
+    out = []
+    base = "https://www.pediatr.org.tw"
+    for path, itype in [("/", None), ("/news/", "news"), ("/event/", "course"), ("/event/calendar.php", "course")]:
+        soup = fetch(base + path)
+        if not soup: continue
+        for a in soup.select("a[href]"):
+            title = clean(a.get_text(" "))
+            href = resolve(a.get("href"), base)
+            if len(title) < 5 or title.isdigit(): continue
+            if any(p in href for p in ["/news/content.php", "/event/content.php", "/event/list.php"]) or _courseish(title):
+                parent = a.find_parent(["tr", "li", "div"]) or a
+                out.append(mk(title, "臺灣兒科醫學會", "台灣學會", href, itype or ("course" if "/event/" in href or _courseish(title) else "news"), _date_from_any(parent.get_text(" "), title)))
+    seen, unique = set(), []
+    for it in out:
+        if it["id"] not in seen:
+            seen.add(it["id"]); unique.append(it)
+    return unique[:30]
+
 SCRAPERS = [
     # ── 台灣學會 ──
     ("台灣急診醫學會",              scrape_sem),
