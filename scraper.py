@@ -56,20 +56,65 @@ def extract_all_dates(text):
             except: pass
     return sorted(set(dates))
 
+def _date_matches(text):
+    """Return (date, start, end) tuples in text order."""
+    if not text:
+        return []
+    matches = []
+    patterns = [
+        r"(\d{4})[./-](\d{1,2})[./-](\d{1,2})",
+        r"(\d{4})年\s*(\d{1,2})月\s*(\d{1,2})日",
+        r"(\d{2,3})[./-](\d{1,2})[./-](\d{1,2})",
+        r"(\d{2,3})年\s*(\d{1,2})月\s*(\d{1,2})日",
+    ]
+    for pat in patterns:
+        for m in re.finditer(pat, text):
+            try:
+                y, mo, d = int(m.group(1)), int(m.group(2)), int(m.group(3))
+                if 100 <= y <= 130:
+                    y += 1911
+                if 2020 <= y <= 2035 and 1 <= mo <= 12 and 1 <= d <= 31:
+                    matches.append((f"{y:04d}-{mo:02d}-{d:02d}", m.start(), m.end()))
+            except Exception:
+                pass
+    return sorted(set(matches), key=lambda x: (x[1], x[2], x[0]))
+
 def parse_dates_from_title(title):
     title = title or ""
     result = {"event_date": None, "deadline": None}
-    deadline_kw = re.search(r"報名截止|截止日期?|報名至|最後報名|deadline|last.day", title, re.I)
+    matches = _date_matches(title)
+    if not matches:
+        return result
+
+    deadline_patterns = [
+        r"報名截止", r"截止日期?", r"報名至", r"報名時間", r"最後報名",
+        r"早鳥", r"優惠", r"即日起至", r"受理至", r"至.*截止",
+        r"deadline", r"last.day",
+    ]
+    deadline_kw = re.search("|".join(deadline_patterns), title, re.I)
     if deadline_kw:
-        before = extract_all_dates(title[:deadline_kw.start()])
-        after  = extract_all_dates(title[deadline_kw.end():])
-        result["deadline"] = before[-1] if before else (after[0] if after else None)
-        all_d = extract_all_dates(title)
-        rest  = [d for d in all_d if d != result["deadline"]]
-        result["event_date"] = sorted(rest)[-1] if rest else (all_d[-1] if all_d else None)
+        near = [
+            (abs(start - deadline_kw.start()), date, start, end)
+            for date, start, end in matches
+            if start >= deadline_kw.start() - 20
+        ]
+        if near:
+            near.sort()
+            result["deadline"] = near[0][1]
+
+    if not result["deadline"]:
+        for date, start, end in matches:
+            tail = title[end:end + 4]
+            if re.search(r"(前|止|截止)", tail):
+                result["deadline"] = date
+                break
+
+    all_d = sorted({d for d, _, _ in matches})
+    if result["deadline"]:
+        rest = [d for d in all_d if d != result["deadline"]]
+        result["event_date"] = rest[-1] if rest else all_d[-1]
     else:
-        all_d = extract_all_dates(title)
-        result["event_date"] = all_d[-1] if all_d else None
+        result["event_date"] = all_d[-1]
     return result
 
 def classify_type(title):
@@ -2173,11 +2218,53 @@ def limit_per_source(results):
 
     return out_courses + out_news
 
+SOURCE_ALIASES = {
+    "AHA": ["AHA — American Heart Association"],
+    "JTS": ["JTS — Joint Trauma System"],
+    "彰化縣防災協會": ["彰化縣防災協會（DPAC）"],
+    "台灣野外地區緊急救護協會": ["台灣野外緊急救護協會"],
+    "Tactical Medicine": ["Tactical Medicine Training & Equipment"],
+}
+
+def load_previous_items():
+    for path in (OUTPUT_JSON, OUTPUT_DOCS_JSON):
+        try:
+            if path.exists():
+                data = json.loads(path.read_text(encoding="utf-8"))
+                return data.get("items", []) or []
+        except Exception as e:
+            log(f"  [warn] 舊資料讀取失敗 {path}: {e}")
+    return []
+
+def source_keys(name, items=None):
+    keys = [name] + SOURCE_ALIASES.get(name, [])
+    if items:
+        for it in items:
+            src = it.get("source")
+            if src and src not in keys:
+                keys.append(src)
+    return keys
+
+def previous_for_source(previous_by_source, name, items=None):
+    out = []
+    seen = set()
+    for key in source_keys(name, items):
+        for it in previous_by_source.get(key, []):
+            if it.get("id") not in seen:
+                seen.add(it.get("id"))
+                out.append(it)
+    return out
+
 def main():
     log(f"\n{'='*55}")
     log(f"緊急救護課程爬蟲 v3  {datetime.now().strftime('%Y-%m-%d %H:%M')}")
     log(f"每單位：課程(同月最多{MAX_PER_MONTH}筆,未來無限) + 消息(同月最多{MAX_PER_MONTH}筆)")
     log(f"{'='*55}")
+
+    previous_items = load_previous_items()
+    previous_by_source = {}
+    for it in previous_items:
+        previous_by_source.setdefault(it.get("source"), []).append(it)
 
     all_items = []
     for name, fn in SCRAPERS:
@@ -2185,12 +2272,21 @@ def main():
         try:
             raw = fn()
             results = limit_per_source(raw)
+            if not results:
+                preserved = previous_for_source(previous_by_source, name, raw)
+                if preserved:
+                    results = preserved
+                    log(f"  [preserve] 本次 0 筆，沿用舊資料 {len(preserved)} 筆")
             courses = [r for r in results if r.get("type")=="course"]
             news    = [r for r in results if r.get("type")=="news"]
             log(f"  課程:{len(courses)}  消息:{len(news)}  (原始:{len(raw)}筆)")
             all_items.extend(results)
         except Exception as e:
             log(f"  [error] {e}")
+            preserved = previous_for_source(previous_by_source, name)
+            if preserved:
+                log(f"  [preserve] 爬蟲錯誤，沿用舊資料 {len(preserved)} 筆")
+                all_items.extend(preserved)
         time.sleep(0.5)
 
     # 去重
