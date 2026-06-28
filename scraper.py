@@ -2296,30 +2296,35 @@ def main():
             seen.add(it["id"])
             unique.append(it)
 
-    # 過濾：過期資料只保留近3個月
+    # 過濾：過期資料只保留近1個月
     from datetime import timedelta
     now = datetime.now(timezone.utc)
-    cutoff = (now - timedelta(days=90)).strftime("%Y-%m-%d")
+    cutoff = (now - timedelta(days=30)).strftime("%Y-%m-%d")
     filtered = []
     for it in unique:
         d = it.get("date")
         if not d:
             filtered.append(it)       # 無日期：保留
         elif d >= cutoff:
-            filtered.append(it)       # 3個月內或未來：保留
-        # 超過3個月的過期資料：捨棄
+            filtered.append(it)       # 1個月內或未來：保留
+        # 超過1個月的過期資料：捨棄
     unique = filtered
 
-    # 排序：日期由近至遠（未來在上，無日期在最後）
+    # 排序：效期內在前；過期資料在後，並由過期日期近至遠
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    def date_num(ds):
+        try:
+            return int(str(ds).replace("-", ""))
+        except Exception:
+            return 99999999
+
     def sort_key(x):
         d = x.get("date")
         if not d:
-            return (2, "9999-99-99")   # 無日期排最後
+            return (1, 0)              # 無日期：排在有效日期後、過期日期前
         if d >= today:
-            return (0, d)              # 未來/今天：由近至遠排最前
-        else:
-            return (1, d)              # 已過期（3個月內）：排中間，由近至遠
+            return (0, date_num(d))    # 今天/未來：日期近的在前
+        return (2, -date_num(d))       # 已過期（1個月內）：越接近今天越前
     unique.sort(key=sort_key)
 
     output = {
