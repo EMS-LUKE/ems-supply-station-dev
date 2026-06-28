@@ -2255,6 +2255,27 @@ def previous_for_source(previous_by_source, name, items=None):
                 out.append(it)
     return out
 
+def keep_within_expiry_window(items, now=None):
+    from datetime import timedelta
+    now = now or datetime.now(timezone.utc)
+    cutoff = (now - timedelta(days=30)).strftime("%Y-%m-%d")
+    out = []
+    for it in items:
+        d = it.get("date")
+        if not d or d >= cutoff:
+            out.append(it)
+    return out
+
+def merge_with_previous_recent(current, previous):
+    merged = []
+    seen = set()
+    for it in current + keep_within_expiry_window(previous):
+        item_id = it.get("id")
+        if item_id and item_id not in seen:
+            seen.add(item_id)
+            merged.append(it)
+    return merged
+
 def main():
     log(f"\n{'='*55}")
     log(f"緊急救護課程爬蟲 v3  {datetime.now().strftime('%Y-%m-%d %H:%M')}")
@@ -2270,13 +2291,22 @@ def main():
     for name, fn in SCRAPERS:
         log(f"\n> {name}")
         try:
-            raw = fn()
+            raw = fn() or []
             results = limit_per_source(raw)
+            previous = previous_for_source(previous_by_source, name, raw)
+            previous_limited = limit_per_source(previous) if previous else []
             if not results:
-                preserved = previous_for_source(previous_by_source, name, raw)
+                preserved = keep_within_expiry_window(previous_limited)
                 if preserved:
                     results = preserved
                     log(f"  [preserve] 本次 0 筆，沿用舊資料 {len(preserved)} 筆")
+            elif previous_limited and len(results) < len(previous_limited):
+                merged = merge_with_previous_recent(results, previous_limited)
+                merged_limited = limit_per_source(merged)
+                added = len(merged_limited) - len(results)
+                if added > 0:
+                    results = merged_limited
+                    log(f"  [preserve] 本次比舊資料少，補回一個月內舊資料 {added} 筆")
             courses = [r for r in results if r.get("type")=="course"]
             news    = [r for r in results if r.get("type")=="news"]
             log(f"  課程:{len(courses)}  消息:{len(news)}  (原始:{len(raw)}筆)")
@@ -2285,6 +2315,7 @@ def main():
             log(f"  [error] {e}")
             preserved = previous_for_source(previous_by_source, name)
             if preserved:
+                preserved = keep_within_expiry_window(limit_per_source(preserved))
                 log(f"  [preserve] 爬蟲錯誤，沿用舊資料 {len(preserved)} 筆")
                 all_items.extend(preserved)
         time.sleep(0.5)
@@ -2297,18 +2328,8 @@ def main():
             unique.append(it)
 
     # 過濾：過期資料只保留近1個月
-    from datetime import timedelta
     now = datetime.now(timezone.utc)
-    cutoff = (now - timedelta(days=30)).strftime("%Y-%m-%d")
-    filtered = []
-    for it in unique:
-        d = it.get("date")
-        if not d:
-            filtered.append(it)       # 無日期：保留
-        elif d >= cutoff:
-            filtered.append(it)       # 1個月內或未來：保留
-        # 超過1個月的過期資料：捨棄
-    unique = filtered
+    unique = keep_within_expiry_window(unique, now)
 
     # 排序：效期內在前；過期資料在後，並由過期日期近至遠
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
