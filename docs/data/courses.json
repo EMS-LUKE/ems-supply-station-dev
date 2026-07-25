@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-25T10:29:02.569796+00:00",
-  "count": 349,
+  "updated": "2026-07-25T13:17:04.204204+00:00",
+  "count": 350,
   "course_count": 196,
-  "news_count": 153,
+  "news_count": 154,
   "items": [
     {
       "id": "f2d34a9b9a5d",
@@ -1893,6 +1893,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/campus.html"
+    },
+    {
+      "id": "c9bc7d463306",
+      "title": "翻轉CPR",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.anne.education/flippedcpr.html"
     },
     {
       "id": "1a7323e30be9",
