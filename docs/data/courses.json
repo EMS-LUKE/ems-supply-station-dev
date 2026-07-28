@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T11:17:38.050355+00:00",
+  "updated": "2026-07-28T13:55:31.694254+00:00",
   "count": 349,
   "course_count": 190,
   "news_count": 159,
@@ -2105,6 +2105,16 @@
       "url": "https://www.jems.com/news/news-feed/"
     },
     {
+      "id": "3d837bd78c51",
+      "title": "LifeSaver Upgrades AL Air Medical Fleet with Three New Bell 407 Helicopters",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/lifesaver-upgrades-al-air-medical-fleet-with-three-new-bell-407-helicopters/"
+    },
+    {
       "id": "98860142062c",
       "title": "Headlines",
       "source": "JEMS",
@@ -2113,16 +2123,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
-    },
-    {
-      "id": "c2f149c2f97e",
-      "title": "Salaries Frozen as Chattanooga (TN) Holds Up Pay Increases for Region’s 911 Operators",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/salaries-frozen-as-chattanooga-tn-holds-up-pay-increases-for-regions-911-operators/"
     },
     {
       "id": "cc05242f9202",
