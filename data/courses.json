@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-28T08:29:11.634597+00:00",
-  "count": 350,
-  "course_count": 193,
-  "news_count": 157,
+  "updated": "2026-07-28T11:17:38.050355+00:00",
+  "count": 349,
+  "course_count": 190,
+  "news_count": 159,
   "items": [
     {
       "id": "44140ae5ad0b",
@@ -13,6 +13,26 @@
       "date": "2026-07-28",
       "deadline": "2026-07-13",
       "url": "https://www.sem.org.tw/Activity/A/Details/32647"
+    },
+    {
+      "id": "cdc42c4dd53f",
+      "title": "【公告】SGA 兒童健康照護政策建言書",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-07-28",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/news_content.aspx?id=566"
+    },
+    {
+      "id": "a11123f46e2b",
+      "title": "【1150806梯次】北區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-07-28",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260728174851"
     },
     {
       "id": "3674adefbc54",
@@ -335,16 +355,6 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28333"
     },
     {
-      "id": "f8a9622624b9",
-      "title": "北區聯合病例討論會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-09",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28126"
-    },
-    {
       "id": "032e497ba690",
       "title": "【DHA 2026】2026 International Conference on Digital Health and Medical Analytics（DHA 2026）115.09.18-20高雄科技大學",
       "source": "台灣急救加護醫學會",
@@ -645,16 +655,6 @@
       "url": "http://www.trauma.org.tw/news/index.asp?/77.html"
     },
     {
-      "id": "1923f6f766a9",
-      "title": "【ATLS課表公告】115年度第5梯次ATLS課程（淡水馬偕醫院）...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/75.html"
-    },
-    {
       "id": "0236e4bc4186",
       "title": "115年精進外科系醫師醫療韌性訓練計畫，將於9月~12月辦理六場課程...",
       "source": "台灣外傷醫學會",
@@ -665,14 +665,14 @@
       "url": "http://www.trauma.org.tw/news/index.asp?/73.html"
     },
     {
-      "id": "0d835afef36b",
-      "title": "【課程取消舉辦公告】2026外傷教育課程-中部地區(Ⅰ)...",
+      "id": "57654c31c3ba",
+      "title": "【甄審資訊】115年專科醫師甄審公告...",
       "source": "台灣外傷醫學會",
       "cat": "台灣學會",
-      "type": "course",
+      "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/71.html"
+      "url": "http://www.trauma.org.tw/news/index.asp?/78.html"
     },
     {
       "id": "1cfee8fade00",
@@ -3103,16 +3103,6 @@
       "date": "2026-07-25",
       "deadline": null,
       "url": "https://forms.gle/2baLpvQBMTdRJLdf6"
-    },
-    {
-      "id": "6fa42b452958",
-      "title": "【1150801梯次】假日班 北區初級救護技術員(EMT-1) 教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-07-24",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260723145717"
     },
     {
       "id": "5808f215b051",
