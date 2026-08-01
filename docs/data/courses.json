@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-01T02:17:19.554552+00:00",
-  "count": 324,
-  "course_count": 173,
-  "news_count": 151,
+  "updated": "2026-08-01T05:55:34.669774+00:00",
+  "count": 327,
+  "course_count": 172,
+  "news_count": 155,
   "items": [
     {
       "id": "780cbfca9dfa",
@@ -1655,11 +1655,51 @@
       "url": "https://www.tsorcc.org.tw/首頁"
     },
     {
+      "id": "96aeeb9948f7",
+      "title": "CPR+AED",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://school.anne.education/course-category/cpi-aed/?tutor-course-filter-category=110"
+    },
+    {
+      "id": "72feeda9299f",
+      "title": "[第一階段線上] CPR+AED知識課程",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://school.anne.education/courses/cpraed/"
+    },
+    {
+      "id": "ae1bfe2ab10d",
+      "title": "http://saveanne.tw/CPRAnneTaipei12024",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "http://saveanne.tw/CPRAnneTaipei12024"
+    },
+    {
+      "id": "00a1a278ed65",
+      "title": "http://saveanne.tw/CPRVisionTaichung1",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "http://saveanne.tw/CPRVisionTaichung1"
+    },
+    {
       "id": "9a9995a5da7d",
       "title": "安妮怎麼了？－急救教育設計服務",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
-      "type": "course",
+      "type": "news",
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/"
@@ -1669,7 +1709,7 @@
       "title": "全民學急救",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
-      "type": "course",
+      "type": "news",
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/firstaid.html"
@@ -1679,7 +1719,7 @@
       "title": "無意識且沒有正常呼吸(CPR+AED)",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
-      "type": "course",
+      "type": "news",
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/f1ohca.html"
@@ -1689,7 +1729,7 @@
       "title": "翻轉急救｜CPR+AED",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
-      "type": "course",
+      "type": "news",
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/flippedcpr.html"
@@ -1699,20 +1739,10 @@
       "title": "校園急救教育支持計畫",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.anne.education/campus.html"
-    },
-    {
-      "id": "c9bc7d463306",
-      "title": "翻轉CPR",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.anne.education/flippedcpr.html"
+      "url": "https://www.anne.education/campus.html"
     },
     {
       "id": "1a7323e30be9",
@@ -2812,7 +2842,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://gut.bmj.com/cgi/content/short/gutjnl-2026-339715v1?rss=1"
+      "url": "http://gut.bmj.com/cgi/content/short/gutjnl-2026-339159v1?rss=1"
     },
     {
       "id": "8d656ad77115",
@@ -2835,14 +2865,14 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
-      "id": "3375be28d9d1",
-      "title": "Current Issue",
+      "id": "1c1df425b317",
+      "title": "Prev issue",
       "source": "Emergency Medicine Journal",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://emj.bmj.com/content/current"
+      "url": "https://emj.bmj.com/content/43/7"
     },
     {
       "id": "ab8c8c791a79",
