@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T10:36:07.008991+00:00",
+  "updated": "2026-08-02T13:12:48.225066+00:00",
   "count": 328,
   "course_count": 177,
   "news_count": 151,
@@ -585,8 +585,8 @@
       "url": "https://forms.gle/wRpfnT6FwUaPYZ7j8"
     },
     {
-      "id": "cae6676fce4b",
-      "title": "理監事會\u0000及秘書處",
+      "id": "75b24c5b342a",
+      "title": "理監事會及秘書處",
       "source": "台灣緊急救護醫療指導醫師學會",
       "cat": "台灣學會",
       "type": "news",
@@ -2875,14 +2875,14 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
-      "id": "1c1df425b317",
-      "title": "Prev issue",
+      "id": "3375be28d9d1",
+      "title": "Current Issue",
       "source": "Emergency Medicine Journal",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://emj.bmj.com/content/43/7"
+      "url": "https://emj.bmj.com/content/current"
     },
     {
       "id": "ab8c8c791a79",
