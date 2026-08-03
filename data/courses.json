@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T17:17:20.264972+00:00",
+  "updated": "2026-08-03T19:33:16.560065+00:00",
   "count": 331,
   "course_count": 180,
   "news_count": 151,
@@ -435,54 +435,54 @@
       "url": "https://jcmit2026.medinfo.org.tw/"
     },
     {
-      "id": "60380fb22676",
-      "title": "【南區場次延至8/22-23】【南&北區-開放報名】115年高級心臟救命術學員課程示範教學 ACLS Provider Demo Course",
+      "id": "2e0faf702790",
+      "title": "【急加會員限時特惠價!】7th Asia Pacific AKI CRRT 2026第七屆亞太急性腎損傷與連續性腎臟替代治療大會 Sep.18-20 2026(台北國際會議中心)",
       "source": "台灣急救加護醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_course_info.asp?/800.html#here"
+      "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/806.html#here"
     },
     {
-      "id": "c79f1f73f270",
-      "title": "115年度高級心臟救命術指導員課程通過名單及試教須知",
+      "id": "30c18270a1df",
+      "title": "【即日起開放報名!!】【聯甄課程】115 年重症醫學核心教育課程(線上影音)",
       "source": "台灣急救加護醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_course_info.asp?/799.html#here"
+      "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/812.html#here"
     },
     {
-      "id": "2bdd60e384a5",
-      "title": "<公佈分組名單和出題題目>115年高級心臟救命術指導員訓練課程(ACLS Instructor Course )第二階段",
+      "id": "ebe50fe852b7",
+      "title": "衛福部公告重症醫學科專科醫師甄審原則(如附件)並自即日生效",
       "source": "台灣急救加護醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_course_info.asp?/787.html#here"
+      "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/808.html#here"
     },
     {
-      "id": "c0ce4cbb1984",
-      "title": "<即日開放報名>115年高級心臟救命術指導員訓練課程(ACLS Instructor Course)",
+      "id": "3826b68f876d",
+      "title": "【公告】部定專科「重症醫學科」相關事宜",
       "source": "台灣急救加護醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_course_info.asp?/777.html#here"
+      "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/796.html#here"
     },
     {
-      "id": "13aaade94e2e",
-      "title": "即日開放報名!【ACLS聯委會課程】2025 ACLS Update Course-中3/14.南3/21. 北4/18&5/16(共4場次)",
+      "id": "c636e4d1a61b",
+      "title": "【免費立即報名】臺灣急性高血鉀處置共識-明天08/04 (二)- 18:30-19:30 (線上直播)",
       "source": "台灣急救加護醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.seccm.org.tw/news/acls_course_info.asp?/780.html#here"
+      "url": "https://www.seccm.org.tw/news/acls_NotUnion_info.asp?/813.html#here"
     },
     {
       "id": "3bd678241819",
@@ -515,16 +515,6 @@
       "url": "https://www.seccm.org.tw/orgNews/News_info.asp?/791.html#here"
     },
     {
-      "id": "5976222d7829",
-      "title": "2026外傷教育課程-南部地區(Ⅰ)... 【課程場地異動通知】原預定場地：馬雅各大樓 10 樓宋・伊利莎白禮拜堂變更後場地：醫療大樓 10 樓禮拜堂敬請各位學員當日依變更後之場地前往報到及上課，造成不便，請見諒。",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/active/index.asp?/23.html"
-    },
-    {
       "id": "03b973dd810d",
       "title": "【ATLS課表公告】115年度第11梯次ATLS再認證課程（大林慈濟醫院）...",
       "source": "台灣外傷醫學會",
@@ -553,6 +543,16 @@
       "date": null,
       "deadline": null,
       "url": "http://www.trauma.org.tw/news/index.asp?/73.html"
+    },
+    {
+      "id": "5976222d7829",
+      "title": "2026外傷教育課程-南部地區(Ⅰ)... 【課程場地異動通知】原預定場地：馬雅各大樓 10 樓宋・伊利莎白禮拜堂變更後場地：醫療大樓 10 樓禮拜堂敬請各位學員當日依變更後之場地前往報到及上課，造成不便，請見諒。",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/active/index.asp?/23.html"
     },
     {
       "id": "57654c31c3ba",
