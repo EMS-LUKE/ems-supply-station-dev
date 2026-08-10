@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-10T10:17:47.906067+00:00",
-  "count": 327,
+  "updated": "2026-08-10T13:00:01.702151+00:00",
+  "count": 328,
   "course_count": 172,
-  "news_count": 155,
+  "news_count": 156,
   "items": [
     {
       "id": "1bfd9a80fc1c",
@@ -2035,6 +2035,16 @@
       "url": "https://www.jems.com/news/"
     },
     {
+      "id": "273bb9291b88",
+      "title": "Flood Death Toll in India’s Assam Reaches 100",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/news-feed/flood-death-toll-in-indias-assam-reaches-100/"
+    },
+    {
       "id": "cc05242f9202",
       "title": "Event & Expedition Medic Provision",
       "source": "World Extreme Medicine",
@@ -2892,7 +2902,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://bjsm.bmj.com/cgi/content/short/bjsports-2026-111653v1?rss=1"
+      "url": "http://jnnp.bmj.com/cgi/content/short/jnnp-2025-338211v2?rss=1"
     },
     {
       "id": "8d656ad77115",
@@ -2915,14 +2925,14 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
-      "id": "3375be28d9d1",
-      "title": "Current Issue",
+      "id": "1c1df425b317",
+      "title": "Prev issue",
       "source": "Emergency Medicine Journal",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://emj.bmj.com/content/current"
+      "url": "https://emj.bmj.com/content/43/7"
     },
     {
       "id": "c78cfd627246",
