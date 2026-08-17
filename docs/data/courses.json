@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-17T12:36:40.792263+00:00",
-  "count": 329,
+  "updated": "2026-08-17T15:25:28.375402+00:00",
+  "count": 330,
   "course_count": 174,
-  "news_count": 155,
+  "news_count": 156,
   "items": [
     {
       "id": "2542cd8b9584",
@@ -1805,6 +1805,16 @@
       "url": "https://www.anne.education/campus.html"
     },
     {
+      "id": "c9bc7d463306",
+      "title": "翻轉CPR",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.anne.education/flippedcpr.html"
+    },
+    {
       "id": "1a7323e30be9",
       "title": "2026母親節節慶關懷系列活動",
       "source": "臺大兒童醫院",
@@ -2695,14 +2705,14 @@
       "url": "https://www.narescue.com/education/product-information-sheets.html"
     },
     {
-      "id": "bf84bf2b2a81",
-      "title": "The Evolution of Combat Medicine",
+      "id": "387f40ba4b84",
+      "title": "Safeguard Medical Launches RAMPART™ System Across the UK and European Markets, Turning Chaos into Clarity During Trauma Response",
       "source": "Safeguard Medical",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://safeguardmedical.com/blogs/news/the-evolution-of-combat-medicine"
+      "url": "https://safeguardmedical.com/blogs/news/rampart%E2%84%A2-across-the-uk-and-european-markets"
     },
     {
       "id": "4110ccb750ce",
