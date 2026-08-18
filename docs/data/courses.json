@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-18T15:31:32.200441+00:00",
-  "count": 333,
-  "course_count": 177,
-  "news_count": 156,
+  "updated": "2026-08-18T18:34:32.240391+00:00",
+  "count": 336,
+  "course_count": 176,
+  "news_count": 160,
   "items": [
     {
       "id": "86c60eb7f9cd",
@@ -1849,20 +1849,50 @@
       "title": "安妮怎麼了？－急救教育設計服務",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
-      "type": "course",
+      "type": "news",
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/"
     },
     {
-      "id": "c9bc7d463306",
-      "title": "翻轉CPR",
+      "id": "ed3caa0dfe34",
+      "title": "全民學急救",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.anne.education/firstaid.html"
+    },
+    {
+      "id": "74618323376f",
+      "title": "無意識且沒有正常呼吸(CPR+AED)",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.anne.education/f1ohca.html"
+    },
+    {
+      "id": "17dbb796794e",
+      "title": "翻轉急救｜CPR+AED",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
       "type": "news",
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/flippedcpr.html"
+    },
+    {
+      "id": "77986d080e7b",
+      "title": "校園急救教育支持計畫",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.anne.education/campus.html"
     },
     {
       "id": "1a7323e30be9",
