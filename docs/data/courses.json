@@ -1,9 +1,19 @@
 {
-  "updated": "2026-08-18T03:45:16.656325+00:00",
-  "count": 331,
-  "course_count": 175,
+  "updated": "2026-08-18T06:38:21.181946+00:00",
+  "count": 333,
+  "course_count": 177,
   "news_count": 156,
   "items": [
+    {
+      "id": "86c60eb7f9cd",
+      "title": "【1150725梯次】中區EMT-1課程 學術科合格名單",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-08-18",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260812093354"
+    },
     {
       "id": "28e2560e0eac",
       "title": "《當災害發生在醫院》地震可能讓備援也失效 - 醫院有備援系統，為何仍會中斷？",
@@ -133,6 +143,26 @@
       "date": "2026-08-29",
       "deadline": "2026-08-17",
       "url": "http://www.trauma.org.tw/active/index.asp?/25.html"
+    },
+    {
+      "id": "6b773fbf2df4",
+      "title": "2026 臺灣災難醫療國際研討會- 危機下的醫療協作 衛生福利部南區緊急醫療應變中心、 中華民國重症醫學會、國立成功大學醫 學院附設醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-30",
+      "deadline": "2026-08-30",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33172"
+    },
+    {
+      "id": "5708dfe93f3d",
+      "title": "115年度醫院安全及緊急應變訓練通識課程 台大醫院、台北區ＲＥMOＣ",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-02",
+      "deadline": "2026-09-02",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33215"
     },
     {
       "id": "65d75f3289a0",
@@ -1775,6 +1805,46 @@
       "url": "https://www.tsorcc.org.tw/首頁"
     },
     {
+      "id": "96aeeb9948f7",
+      "title": "CPR+AED",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://school.anne.education/course-category/cpi-aed/?tutor-course-filter-category=110"
+    },
+    {
+      "id": "72feeda9299f",
+      "title": "[第一階段線上] CPR+AED知識課程",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://school.anne.education/courses/cpraed/"
+    },
+    {
+      "id": "ae1bfe2ab10d",
+      "title": "http://saveanne.tw/CPRAnneTaipei12024",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "http://saveanne.tw/CPRAnneTaipei12024"
+    },
+    {
+      "id": "00a1a278ed65",
+      "title": "http://saveanne.tw/CPRVisionTaichung1",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "http://saveanne.tw/CPRVisionTaichung1"
+    },
+    {
       "id": "9a9995a5da7d",
       "title": "安妮怎麼了？－急救教育設計服務",
       "source": "安妮怎麼了",
@@ -1783,46 +1853,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/"
-    },
-    {
-      "id": "ed3caa0dfe34",
-      "title": "全民學急救",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.anne.education/firstaid.html"
-    },
-    {
-      "id": "74618323376f",
-      "title": "無意識且沒有正常呼吸(CPR+AED)",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.anne.education/f1ohca.html"
-    },
-    {
-      "id": "17dbb796794e",
-      "title": "翻轉急救｜CPR+AED",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.anne.education/flippedcpr.html"
-    },
-    {
-      "id": "77986d080e7b",
-      "title": "校園急救教育支持計畫",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.anne.education/campus.html"
     },
     {
       "id": "c9bc7d463306",
@@ -2993,16 +3023,6 @@
       "date": "2026-08-14",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1639"
-    },
-    {
-      "id": "ab26ef0bc123",
-      "title": "【1150819梯次】北區 初級救護技術員(EMT-1+) 繼續教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-08-14",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260814173047"
     },
     {
       "id": "ae2cda4db6d0",
