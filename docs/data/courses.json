@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-19T09:33:01.698244+00:00",
-  "count": 333,
+  "updated": "2026-08-19T12:39:45.018522+00:00",
+  "count": 334,
   "course_count": 177,
-  "news_count": 156,
+  "news_count": 157,
   "items": [
     {
       "id": "f1145fc53d41",
@@ -2113,6 +2113,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/news-feed/"
+    },
+    {
+      "id": "7704764d3bb8",
+      "title": "Congo’s Ebola Outbreak Reaches 5,000 Cases as It Outpaces Response Efforts at Unprecedented Speed",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/congos-ebola-outbreak-reaches-5000-cases-as-it-outpaces-response-efforts-at-unprecedented-speed/"
     },
     {
       "id": "cc05242f9202",
