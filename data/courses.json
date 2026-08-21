@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-21T09:36:37.082233+00:00",
-  "count": 339,
+  "updated": "2026-08-21T12:40:19.284897+00:00",
+  "count": 337,
   "course_count": 176,
-  "news_count": 163,
+  "news_count": 161,
   "items": [
     {
       "id": "fbc3d6027449",
@@ -2173,26 +2173,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
-    },
-    {
-      "id": "448c9a870902",
-      "title": "Providence (RI) Fire Department Expands EMS Capacity, Adds Ambulance",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/providence-ri-fire-department-expands-ems-capacity-adds-ambulance/"
-    },
-    {
-      "id": "6cd2e72b70eb",
-      "title": "Lifeline for Rural Hospitals Faces Test Under ‘Big Beautiful’ Law",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/lifeline-for-rural-hospitals-faces-test-under-big-beautiful-law/"
     },
     {
       "id": "cc05242f9202",
