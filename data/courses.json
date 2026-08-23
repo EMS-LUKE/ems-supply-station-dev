@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-22T21:23:05.154596+00:00",
-  "count": 338,
+  "updated": "2026-08-23T01:02:54.953414+00:00",
+  "count": 337,
   "course_count": 181,
-  "news_count": 157,
+  "news_count": 156,
   "items": [
     {
       "id": "fa10de726c18",
@@ -23,26 +23,6 @@
       "date": "2026-08-23",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/303040d1be444f9ebc74a0cd1b5f69c0"
-    },
-    {
-      "id": "e22b03c287f9",
-      "title": "新生兒高級救命術NRP認證課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-23",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28317"
-    },
-    {
-      "id": "a7e9b7c48a09",
-      "title": "新生兒高級救命術(NRP)訓練課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-23",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28269"
     },
     {
       "id": "60a91704384e",
@@ -73,6 +53,16 @@
       "date": "2026-08-25",
       "deadline": "2026-08-25",
       "url": "https://www.sem.org.tw/Activity/B/Details/33187"
+    },
+    {
+      "id": "e22b03c287f9",
+      "title": "新生兒高級救命術NRP認證課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-26",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28341"
     },
     {
       "id": "2164b1e70863",
@@ -133,6 +123,16 @@
       "date": "2026-08-30",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/7f77a7c370524bf8951c61f2fc66fed4"
+    },
+    {
+      "id": "dcd165e7fe15",
+      "title": "第五屆兒童急重難罕症新知與實務研討會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-30",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28351"
     },
     {
       "id": "d0c6b892e166",
@@ -493,6 +493,16 @@
       "date": "2026-10-24",
       "deadline": "2026-10-01",
       "url": "https://www.sem.org.tw/Activity/A/Details/33268"
+    },
+    {
+      "id": "14dbcff89140",
+      "title": "2026年長榮航空觀光馬拉松醫護志工線上報名",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-10-25",
+      "deadline": null,
+      "url": "https://www.mgems.org/261025_eva_checkin/"
     },
     {
       "id": "3685f7be079e",
@@ -1533,16 +1543,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.pediatr.org.tw/content.php?id=21032"
-    },
-    {
-      "id": "26eb3bb8e0c5",
-      "title": "2026年玉山管理處初級救護技術員繼續教育訓練",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.mgems.org/260514_yushan_t1f/"
     },
     {
       "id": "c882249c61ba",
@@ -3373,16 +3373,6 @@
       "date": "2026-07-24",
       "deadline": null,
       "url": "https://temataiwan.blogspot.com/2026/07/blog-post_24.html"
-    },
-    {
-      "id": "1aebc815769d",
-      "title": "【徵文公告】「新生兒照護中的倫理相遇」敘事醫學徵文",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-23",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/news_content.aspx?id=565"
     }
   ]
 }
