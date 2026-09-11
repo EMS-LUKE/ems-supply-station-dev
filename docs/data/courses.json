@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-11T07:46:36.725329+00:00",
-  "count": 330,
+  "updated": "2026-09-11T13:16:33.222230+00:00",
+  "count": 331,
   "course_count": 175,
-  "news_count": 155,
+  "news_count": 156,
   "items": [
     {
       "id": "ac6ac8b858dd",
@@ -203,6 +203,16 @@
       "date": "2026-09-20",
       "deadline": null,
       "url": "https://www.tebma.org.tw/event/list/view/11642ac2dab56a383c16166183e39187"
+    },
+    {
+      "id": "833242aed1ad",
+      "title": "上課通知-115.9.20(日)RSVPreF3 Indication Expansion &Total Protection Symposium",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-09-20",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/9264d6d370e54ced8d3d1076cd78a701"
     },
     {
       "id": "df5070bf548e",
