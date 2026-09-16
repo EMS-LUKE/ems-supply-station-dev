@@ -1,19 +1,9 @@
 {
-  "updated": "2026-09-15T23:27:38.549429+00:00",
-  "count": 337,
+  "updated": "2026-09-16T02:56:09.871392+00:00",
+  "count": 336,
   "course_count": 180,
-  "news_count": 157,
+  "news_count": 156,
   "items": [
-    {
-      "id": "4161eefd59d1",
-      "title": "【1150829梯次】北區平日班EMT-1課程 學術科合格名單(含應下梯次補考之不合格名單)",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-09-15",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260910112814"
-    },
     {
       "id": "99c47cfaa7f6",
       "title": "戰傷醫學訓練工作坊 臺北榮民總醫院急診部",
@@ -3135,6 +3125,16 @@
       "url": "https://emj.bmj.com/content/43/8"
     },
     {
+      "id": "4161eefd59d1",
+      "title": "【1150829梯次】北區平日班EMT-1課程 學術科合格名單(含應下梯次補考之不合格名單)",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-09-15",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260910112814"
+    },
+    {
       "id": "8c3a70547b40",
       "title": "上課通知-115.9.14(一)StrokePrevention in AF : What do you need to know ?step4臨床實例",
       "source": "台灣家庭醫學醫學會",
@@ -3363,16 +3363,6 @@
       "date": "2026-08-18",
       "deadline": null,
       "url": "https://temataiwan.blogspot.com/2026/08/blog-post_18.html"
-    },
-    {
-      "id": "737879a7520f",
-      "title": "上課通知-115.8.16 2026新竹家庭醫學周末研討會",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-08-16",
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/a3b9d124c8af4aca9aaaeff0fe415c9b"
     }
   ]
 }
