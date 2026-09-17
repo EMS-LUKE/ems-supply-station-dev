@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T18:50:55.482406+00:00",
+  "updated": "2026-09-17T23:25:36.456199+00:00",
   "count": 337,
   "course_count": 181,
   "news_count": 156,
@@ -2905,26 +2905,6 @@
       "url": "https://safeguardmedical.com/blogs/news/rampart%E2%84%A2-across-the-uk-and-european-markets"
     },
     {
-      "id": "34d97b943ff2",
-      "title": "Public Access Bleeding Control Kit - Nylon",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=c026634d1&_ss=r"
-    },
-    {
-      "id": "1a9c336e65db",
-      "title": "RED - Ready Every Day - Personal Aid Kit",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=2&_sid=c026634d1&_ss=r"
-    },
-    {
       "id": "10b151ad3422",
       "title": "Curaplex Stop The Bleed Multi-Pack Kit - Basic",
       "source": "Tactical Medicine Training & Equipment",
@@ -2932,7 +2912,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=3&_sid=c026634d1&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=1&_sid=1679a0c2e&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -2942,17 +2922,37 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=4&_sid=c026634d1&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=2&_sid=1679a0c2e&_ss=r"
     },
     {
-      "id": "7f0bd426cd0d",
-      "title": "B-CON Bleeding Control Kit",
+      "id": "d99462985b15",
+      "title": "Mojo® Public Access Trauma Station - Advanced",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=5&_sid=c026634d1&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/mojo%C2%AE-public-access-trauma-station-advanced?_pos=3&_sid=1679a0c2e&_ss=r"
+    },
+    {
+      "id": "ba12c7838487",
+      "title": "Mojo® Public Access Trauma Station",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/mojo-public-access-trauma-station?_pos=4&_sid=1679a0c2e&_ss=r"
+    },
+    {
+      "id": "780879151377",
+      "title": "Mobilize Public Access Trauma Kit by ZOLL",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/mobilize-public-access-trauma-kit-by-zoll?_pos=5&_sid=1679a0c2e&_ss=r"
     },
     {
       "id": "715383a36e2a",
