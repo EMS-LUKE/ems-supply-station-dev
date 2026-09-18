@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-18T07:58:42.533081+00:00",
-  "count": 338,
+  "updated": "2026-09-18T13:24:48.326054+00:00",
+  "count": 339,
   "course_count": 183,
-  "news_count": 155,
+  "news_count": 156,
   "items": [
     {
       "id": "99c47cfaa7f6",
@@ -13,6 +13,16 @@
       "date": "2026-09-18",
       "deadline": "2026-09-18",
       "url": "https://www.sem.org.tw/Activity/B/Details/33235"
+    },
+    {
+      "id": "a3739a0bc728",
+      "title": "函轉聯新國際醫療創新教育中心舉辦「健康產業會員大數據經營」沙龍論壇",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-09-18",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/5/Details/1655"
     },
     {
       "id": "032e497ba690",
@@ -2932,17 +2942,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=d0ea0a154&_ss=r"
-    },
-    {
-      "id": "1a9c336e65db",
-      "title": "RED - Ready Every Day - Personal Aid Kit",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=2&_sid=d0ea0a154&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=8c8ce58a0&_ss=r"
     },
     {
       "id": "10b151ad3422",
@@ -2952,7 +2952,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=3&_sid=d0ea0a154&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=8c8ce58a0&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -2962,7 +2962,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=4&_sid=d0ea0a154&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=8c8ce58a0&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -2972,7 +2972,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=5&_sid=d0ea0a154&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=8c8ce58a0&_ss=r"
+    },
+    {
+      "id": "1a9c336e65db",
+      "title": "RED - Ready Every Day - Personal Aid Kit",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=8c8ce58a0&_ss=r"
     },
     {
       "id": "715383a36e2a",
