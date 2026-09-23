@@ -1,19 +1,9 @@
 {
-  "updated": "2026-09-23T02:55:47.605857+00:00",
-  "count": 339,
-  "course_count": 184,
+  "updated": "2026-09-23T08:18:04.411931+00:00",
+  "count": 340,
+  "course_count": 185,
   "news_count": 155,
   "items": [
-    {
-      "id": "3dd8bd1c2120",
-      "title": "新生兒（含早產兒）診療及照護研討暨教學",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-23",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28369"
-    },
     {
       "id": "11c848220bb3",
       "title": "上課通知-115.9.30(三)The Future of Weight Management: Beyond Weight Loss 體重管理新未來：超越減重的整合照護",
@@ -385,8 +375,8 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28361"
     },
     {
-      "id": "e3c3aafbcaeb",
-      "title": "2026年臺灣國家公園馬拉松-陽明山",
+      "id": "c1bc229e2527",
+      "title": "2026年臺灣國家公園馬拉松『陽明山』-線上報名",
       "source": "中華民國大型活動緊急救護協會",
       "cat": "台灣協會",
       "type": "course",
@@ -515,6 +505,16 @@
       "url": "https://www.sem.org.tw/Activity/A/Details/33322"
     },
     {
+      "id": "08518396f20a",
+      "title": "中區聯合病例討論會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-12-12",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28132"
+    },
+    {
       "id": "62570103abc2",
       "title": "JCMIT 2026 國際醫學資訊聯合研討會",
       "source": "台灣醫學資訊學會",
@@ -523,6 +523,16 @@
       "date": "2026-12-19",
       "deadline": null,
       "url": "https://jcmit2026.medinfo.org.tw/"
+    },
+    {
+      "id": "c75ab53df448",
+      "title": "雲嘉區聯合病例討論會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-12-19",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28144"
     },
     {
       "id": "60380fb22676",
@@ -2855,6 +2865,16 @@
       "url": "https://safeguardmedical.com/blogs/news/rampart%E2%84%A2-across-the-uk-and-european-markets"
     },
     {
+      "id": "efccb4766388",
+      "title": "6\" Israeli Emergency Bandage® from Safeguard Medical",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=1&_sid=5e5143af6&_ss=r"
+    },
+    {
       "id": "34d97b943ff2",
       "title": "Public Access Bleeding Control Kit - Nylon",
       "source": "Tactical Medicine Training & Equipment",
@@ -2862,7 +2882,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=147625b2f&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=5e5143af6&_ss=r"
     },
     {
       "id": "10b151ad3422",
@@ -2872,7 +2892,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=147625b2f&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=3&_sid=5e5143af6&_ss=r"
+    },
+    {
+      "id": "40b63028b17c",
+      "title": "TacMed™ Field Blood Transfusion Kit",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=4&_sid=5e5143af6&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -2882,27 +2912,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=147625b2f&_ss=r"
-    },
-    {
-      "id": "7f0bd426cd0d",
-      "title": "B-CON Bleeding Control Kit",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=147625b2f&_ss=r"
-    },
-    {
-      "id": "1a9c336e65db",
-      "title": "RED - Ready Every Day - Personal Aid Kit",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=147625b2f&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=5&_sid=5e5143af6&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3042,7 +3052,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.bmj.com/content/394/bmj-2026-100838.short?rss=1"
+      "url": "http://www.bmj.com/content/394/bmj-2026-100937.short?rss=1"
     },
     {
       "id": "8d656ad77115",
@@ -3065,14 +3075,14 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
-      "id": "3375be28d9d1",
-      "title": "Current Issue",
+      "id": "1c1df425b317",
+      "title": "Prev issue",
       "source": "Emergency Medicine Journal",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://emj.bmj.com/content/current"
+      "url": "https://emj.bmj.com/content/43/9"
     },
     {
       "id": "b873ce16f4e7",
