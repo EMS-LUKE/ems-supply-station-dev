@@ -1,19 +1,9 @@
 {
-  "updated": "2026-09-23T23:30:34.904618+00:00",
-  "count": 340,
-  "course_count": 185,
-  "news_count": 155,
+  "updated": "2026-09-24T02:45:56.618274+00:00",
+  "count": 337,
+  "course_count": 184,
+  "news_count": 153,
   "items": [
-    {
-      "id": "d049bdf98987",
-      "title": "【ATLS報名】115年「再認證」課程報名資訊（含報名表）115.09.23更新...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-23",
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/81.html"
-    },
     {
       "id": "11c848220bb3",
       "title": "上課通知-115.9.30(三)The Future of Weight Management: Beyond Weight Loss 體重管理新未來：超越減重的整合照護",
@@ -2882,7 +2872,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=1&_sid=d849c1a7a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=1&_sid=db6dac50c&_ss=r"
     },
     {
       "id": "9bc553af2970",
@@ -2892,7 +2882,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=d849c1a7a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=db6dac50c&_ss=r"
     },
     {
       "id": "34d97b943ff2",
@@ -2902,7 +2892,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=3&_sid=d849c1a7a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=3&_sid=db6dac50c&_ss=r"
     },
     {
       "id": "10b151ad3422",
@@ -2912,7 +2902,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=4&_sid=d849c1a7a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=4&_sid=db6dac50c&_ss=r"
     },
     {
       "id": "40b63028b17c",
@@ -2922,7 +2912,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=5&_sid=d849c1a7a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=5&_sid=db6dac50c&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3095,14 +3085,14 @@
       "url": "https://emj.bmj.com/content/43/9"
     },
     {
-      "id": "b873ce16f4e7",
-      "title": "115年醫院安全及緊急應變訓練通識課程 衛生福利部中區緊急醫療應變中心、光田醫療社團法人光田綜合醫院、臺中榮民總醫院",
-      "source": "台灣急診醫學會",
+      "id": "d049bdf98987",
+      "title": "【ATLS報名】115年「再認證」課程報名資訊（含報名表）115.09.23更新...",
+      "source": "台灣外傷醫學會",
       "cat": "台灣學會",
       "type": "course",
-      "date": "2026-09-22",
-      "deadline": "2026-09-22",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33185"
+      "date": "2026-09-23",
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/81.html"
     },
     {
       "id": "ca1cc5bcf302",
@@ -3383,26 +3373,6 @@
       "date": "2026-08-27",
       "deadline": null,
       "url": "http://www.sgecm.org.tw/educate/edu_info.asp?id=1727"
-    },
-    {
-      "id": "828b83a5f6c2",
-      "title": "轉知 疾管署-自115年8月24日起至9月30日止，擴大公費流感抗病毒藥劑使用對象，請合約醫療機構配合辦理!",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-08-24",
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/bcc67bede40a485d98191f8f8ddaa6e1"
-    },
-    {
-      "id": "f8b4e7ea7fd1",
-      "title": "上課通知-115.8.24(一)體重管理新時代： 掌握早期介入關鍵",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-08-24",
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/72657b05d4b7445e8f500244a41df45b"
     }
   ]
 }
