@@ -1,29 +1,9 @@
 {
-  "updated": "2026-09-24T23:49:03.364317+00:00",
+  "updated": "2026-09-25T03:03:17.558495+00:00",
   "count": 339,
   "course_count": 184,
   "news_count": 155,
   "items": [
-    {
-      "id": "afb12390577b",
-      "title": "申請「特定美容醫學處置曁（一般）美容醫學手術之訓練課程時數」抵免",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-24",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/5/Details/1658"
-    },
-    {
-      "id": "2f36569c6e58",
-      "title": "【1151003梯次】北區 初級救護技術員(EMT-1) 教育訓練 上課資訊",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-09-24",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260924162509"
-    },
     {
       "id": "4bb01c7c73b4",
       "title": "《當災害發生在醫院》 醫院降載之後，那些「不在院內」病人的醫療需求去了哪裡？",
@@ -2902,7 +2882,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=1&_sid=52292af37&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=1&_sid=1e1890e05&_ss=r"
     },
     {
       "id": "efccb4766388",
@@ -2912,7 +2892,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=2&_sid=52292af37&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=2&_sid=1e1890e05&_ss=r"
     },
     {
       "id": "9bc553af2970",
@@ -2922,7 +2902,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=3&_sid=52292af37&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=3&_sid=1e1890e05&_ss=r"
     },
     {
       "id": "34d97b943ff2",
@@ -2932,7 +2912,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=4&_sid=52292af37&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=4&_sid=1e1890e05&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -2942,7 +2922,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=5&_sid=52292af37&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=5&_sid=1e1890e05&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3113,6 +3093,26 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/9"
+    },
+    {
+      "id": "afb12390577b",
+      "title": "申請「特定美容醫學處置曁（一般）美容醫學手術之訓練課程時數」抵免",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-09-24",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/5/Details/1658"
+    },
+    {
+      "id": "2f36569c6e58",
+      "title": "【1151003梯次】北區 初級救護技術員(EMT-1) 教育訓練 上課資訊",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-09-24",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20260924162509"
     },
     {
       "id": "d049bdf98987",
