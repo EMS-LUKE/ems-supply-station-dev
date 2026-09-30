@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T17:31:44.969089+00:00",
+  "updated": "2026-09-30T21:52:12.091450+00:00",
   "count": 334,
   "course_count": 181,
   "news_count": 153,
@@ -2872,37 +2872,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=7261f7f5a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=acd59a14d&_ss=r"
     },
     {
-      "id": "ad37ec9e265d",
-      "title": "Low Titer O Whole Blood Kit - LTOWB",
+      "id": "f7190bdfadbb",
+      "title": "Public Access Bleeding Control 5 Pack",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=2&_sid=7261f7f5a&_ss=r"
-    },
-    {
-      "id": "7f0bd426cd0d",
-      "title": "B-CON Bleeding Control Kit",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=3&_sid=7261f7f5a&_ss=r"
-    },
-    {
-      "id": "4c7353f6cea7",
-      "title": "Curaplex Stop the Bleed Kit - Individual - Intermediate",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=4&_sid=7261f7f5a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=2&_sid=acd59a14d&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -2912,7 +2892,27 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=7261f7f5a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=acd59a14d&_ss=r"
+    },
+    {
+      "id": "ba12c7838487",
+      "title": "Mojo® Public Access Trauma Station",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/mojo-public-access-trauma-station?_pos=4&_sid=acd59a14d&_ss=r"
+    },
+    {
+      "id": "0d89877fc319",
+      "title": "Public Access Bleeding Control (PABC) Twin Pack",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=5&_sid=acd59a14d&_ss=r"
     },
     {
       "id": "715383a36e2a",
