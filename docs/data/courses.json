@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-01T03:40:22.168424+00:00",
-  "count": 323,
-  "course_count": 169,
+  "updated": "2026-10-01T12:20:38.509869+00:00",
+  "count": 318,
+  "course_count": 164,
   "news_count": 154,
   "items": [
     {
@@ -95,6 +95,16 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28195"
     },
     {
+      "id": "57ef35de5a4c",
+      "title": "臺中榮民總醫院兒童醫學中心 新生兒科轉診討論會",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-03",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28384"
+    },
+    {
       "id": "009c255ace66",
       "title": "2026台灣實證醫學學會種子師資培訓工作坊",
       "source": "台灣實證醫學學會",
@@ -123,16 +133,6 @@
       "date": "2026-10-04",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28373"
-    },
-    {
-      "id": "14742f761ce7",
-      "title": "2026長庚醫學週-周產期新生兒科醫學的新進展",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-04",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28380"
     },
     {
       "id": "37b989f17538",
@@ -315,26 +315,6 @@
       "url": "https://www.tebma.org.tw/event/list"
     },
     {
-      "id": "c7bfc459e1c7",
-      "title": "新生兒急救加護訓練課程 (NRP)",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-14",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28365"
-    },
-    {
-      "id": "03f3d9a79297",
-      "title": "2026年新生兒高級救命術NRP訓練課程",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-14",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28360"
-    },
-    {
       "id": "e41ccd3144ef",
       "title": "急性中毒救命課程（AILS Training Course）-115年第4場 社團法人台灣急診醫學會",
       "source": "台灣急診醫學會",
@@ -375,16 +355,6 @@
       "url": "https://www.sem.org.tw/Activity/A/Details/33322"
     },
     {
-      "id": "08518396f20a",
-      "title": "中區聯合病例討論會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-12-12",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28132"
-    },
-    {
       "id": "62570103abc2",
       "title": "JCMIT 2026 國際醫學資訊聯合研討會",
       "source": "台灣醫學資訊學會",
@@ -393,26 +363,6 @@
       "date": "2026-12-19",
       "deadline": null,
       "url": "https://jcmit2026.medinfo.org.tw/"
-    },
-    {
-      "id": "c75ab53df448",
-      "title": "雲嘉區聯合病例討論會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-12-19",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28144"
-    },
-    {
-      "id": "4a927816cc75",
-      "title": "南區聯合病例討論會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-12-19",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28138"
     },
     {
       "id": "60380fb22676",
@@ -2745,6 +2695,16 @@
       "url": "https://safeguardmedical.com/blogs/news/rampart%E2%84%A2-across-the-uk-and-european-markets"
     },
     {
+      "id": "9bc553af2970",
+      "title": "Israeli T3 Bandage",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=ecf0225d3&_ss=r"
+    },
+    {
       "id": "34d97b943ff2",
       "title": "Public Access Bleeding Control Kit - Nylon",
       "source": "Tactical Medicine Training & Equipment",
@@ -2752,7 +2712,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=89aafb1fe&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=ecf0225d3&_ss=r"
     },
     {
       "id": "ad37ec9e265d",
@@ -2762,7 +2722,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=2&_sid=89aafb1fe&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=3&_sid=ecf0225d3&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -2772,7 +2732,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=3&_sid=89aafb1fe&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=ecf0225d3&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -2782,17 +2742,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=4&_sid=89aafb1fe&_ss=r"
-    },
-    {
-      "id": "49625ee4817d",
-      "title": "Public Access INDIVIDUAL Bleeding Control Kit - Vacuum Sealed",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=89aafb1fe&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=5&_sid=ecf0225d3&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3035,8 +2985,8 @@
       "url": "https://temataiwan.blogspot.com/2026/09/113.html"
     },
     {
-      "id": "4c2ba21305ee",
-      "title": "早鳥即將截止！【協會主辦】2026年疾病照護風險管理與緊急應變規劃課程(10/22)",
+      "id": "21021d51e307",
+      "title": "【協會主辦】2026年疾病照護風險管理與緊急應變規劃課程(10/22)",
       "source": "台灣緊急應變管理協會",
       "cat": "台灣協會",
       "type": "course",
