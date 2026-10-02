@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T09:21:23.440633+00:00",
+  "updated": "2026-10-02T17:21:07.388354+00:00",
   "count": 321,
   "course_count": 165,
   "news_count": 156,
@@ -2712,7 +2712,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=ecc46ea0e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=5ff54438f&_ss=r"
     },
     {
       "id": "34d97b943ff2",
@@ -2722,7 +2722,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=ecc46ea0e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=5ff54438f&_ss=r"
     },
     {
       "id": "ad37ec9e265d",
@@ -2732,7 +2732,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=3&_sid=ecc46ea0e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=3&_sid=5ff54438f&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -2742,7 +2742,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=ecc46ea0e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=5ff54438f&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -2752,7 +2752,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=5&_sid=ecc46ea0e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=5&_sid=5ff54438f&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -2815,8 +2815,8 @@
       "url": "https://lms.trilogyems.com/courses/"
     },
     {
-      "id": "23adf4e4ec24",
-      "title": "BUY COURSES",
+      "id": "2eec27c4207b",
+      "title": "Browse Courses",
       "source": "Trilogy EMS",
       "cat": "戰術救護",
       "type": "course",
@@ -2825,14 +2825,14 @@
       "url": "https://lms.trilogyems.com/buy-course/"
     },
     {
-      "id": "13cc750343fa",
-      "title": "Unified DMT/CHT Course",
+      "id": "01fb4a59fa83",
+      "title": "Explore this Course",
       "source": "Trilogy EMS",
       "cat": "戰術救護",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://lms.trilogyems.com/unified-dmt-cht-course/"
+      "url": "https://lms.trilogyems.com/smic"
     },
     {
       "id": "67b694b172c8",
