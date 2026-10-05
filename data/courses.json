@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-05T03:37:31.169964+00:00",
-  "count": 325,
-  "course_count": 169,
+  "updated": "2026-10-05T13:23:40.133303+00:00",
+  "count": 327,
+  "course_count": 171,
   "news_count": 156,
   "items": [
     {
@@ -283,6 +283,26 @@
       "date": "2026-11-21",
       "deadline": null,
       "url": "https://www.seccm.org.tw/news/acls_union_info.asp?/815.html#here"
+    },
+    {
+      "id": "8d8549fe22ae",
+      "title": "外傷登錄訓練課程－首次認證(中部場次)...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-21",
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/active/index.asp?/31.html"
+    },
+    {
+      "id": "27e62879c6ba",
+      "title": "外傷登錄訓練課程－再認證(中部場次)...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-22",
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/active/index.asp?/33.html"
     },
     {
       "id": "72a765ac53c9",
@@ -1862,7 +1882,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.hear-aed.com.tw/?p=97615"
+      "url": "https://www.hear-aed.com.tw/news/hearaed-updates/%e3%80%90%e5%90%8c%e4%b8%80%e5%8f%b0-aed%ef%bc%8c%e8%ad%a6%e5%a0%b1%e5%99%a8%e8%ae%93%e5%ae%83%e5%bf%ab%e4%ba%86%e5%b0%87%e8%bf%91-2-%e5%88%86%e9%90%98%e5%88%b0%e5%a0%b4%e3%80%91/"
     },
     {
       "id": "f1d72e818ace",
@@ -2662,7 +2682,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=f0d076676&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=cc86f01c4&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -2672,7 +2692,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=f0d076676&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=cc86f01c4&_ss=r"
     },
     {
       "id": "0d89877fc319",
@@ -2682,7 +2702,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=3&_sid=f0d076676&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=3&_sid=cc86f01c4&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -2692,7 +2712,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=4&_sid=f0d076676&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=4&_sid=cc86f01c4&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -2702,7 +2722,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=f0d076676&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=cc86f01c4&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -2842,7 +2862,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.bmj.com/content/395/bmj-2026-101017.short?rss=1"
+      "url": "http://www.bmj.com/content/395/bmj-2026-101003.short?rss=1"
     },
     {
       "id": "8d656ad77115",
