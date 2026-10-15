@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-15T02:50:45.172633+00:00",
-  "count": 324,
-  "course_count": 172,
-  "news_count": 152,
+  "updated": "2026-10-15T08:01:23.790735+00:00",
+  "count": 326,
+  "course_count": 173,
+  "news_count": 153,
   "items": [
     {
       "id": "c2c695538b62",
@@ -35,14 +35,14 @@
       "url": "https://www.sem.org.tw/Activity/B/Details/33326"
     },
     {
-      "id": "5d3f308c0193",
-      "title": "臺中榮民總醫院國際醫學研討會-急診醫學部智慧急診與韌性醫療的未來 臺中榮民總醫院急診部",
+      "id": "31a53adb4813",
+      "title": "PALS&APLS 訓練課程 亞東紀念醫院小兒部",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": "2026-10-17",
-      "deadline": "2026-10-17",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33224"
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/B/Details/33270"
     },
     {
       "id": "e49f2ca0c884",
@@ -363,6 +363,16 @@
       "date": "2026-12-19",
       "deadline": null,
       "url": "https://jcmit2026.medinfo.org.tw/"
+    },
+    {
+      "id": "6db925e8affe",
+      "title": "116年住院醫師緊急醫療系統訓練課程(北榮場)【線上+實體】 社團法人台灣急診醫學會",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2027-01-04",
+      "deadline": "2026-10-15",
+      "url": "https://www.sem.org.tw/Activity/A/Details/33459"
     },
     {
       "id": "60380fb22676",
@@ -895,6 +905,16 @@
       "url": "https://www.medinfo.org.tw"
     },
     {
+      "id": "a6f354046363",
+      "title": "【代轉】誠摯邀請參加10/16(五)2026台灣健康大數據整合服務平台年會 - 推動可信任研究環境：從原則走向可落實的信任機制，歡迎踴躍報名參加！",
+      "source": "台灣醫學資訊學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.medinfo.org.tw"
+    },
+    {
       "id": "6455c13c8abc",
       "title": "【代轉】11月20日至22日舉辦「2026 第七屆全球生物醫學工程年會（GCBME 2026）」，歡迎參與及踴躍投稿！",
       "source": "台灣醫學資訊學會",
@@ -965,6 +985,16 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0e00976c95ae444c976c7ad92105cee0"
     },
     {
+      "id": "f25772aa74fb",
+      "title": "轉知 全聯會-「透析前高風險腎臟病人NSAIDs合理用藥宣導」",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/8f1ee5dbbe4f4df3bea156a22605ea79"
+    },
+    {
       "id": "edae3ddae351",
       "title": "115年家庭醫學科專科醫師甄審通過甄試資格審查名單",
       "source": "台灣家庭醫學醫學會",
@@ -993,16 +1023,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/238fecbc0a7f4bf8ac22136cc884bc9d"
-    },
-    {
-      "id": "d1f861571149",
-      "title": "轉知 線上直播即時課程訊息（14:00-16:35）：EARLIER. LOWER. LONGER. Optimizing Lipid Management from Risk Detection to Cardiovascular Protection",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/b64237a3823f4d20be48120f4ffaea3f"
     },
     {
       "id": "249cfc761773",
@@ -2702,7 +2722,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=00f6ea523&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=8b0fb1552&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -2712,7 +2732,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=00f6ea523&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=8b0fb1552&_ss=r"
+    },
+    {
+      "id": "ad37ec9e265d",
+      "title": "Low Titer O Whole Blood Kit - LTOWB",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=3&_sid=8b0fb1552&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -2722,7 +2752,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=00f6ea523&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=4&_sid=8b0fb1552&_ss=r"
     },
     {
       "id": "b19e6d367f80",
@@ -2732,17 +2762,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=4&_sid=00f6ea523&_ss=r"
-    },
-    {
-      "id": "49625ee4817d",
-      "title": "Public Access INDIVIDUAL Bleeding Control Kit - Vacuum Sealed",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=00f6ea523&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=5&_sid=8b0fb1552&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -2955,8 +2975,8 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/2e6b260cbd974be89d0e998d80d8dd90"
     },
     {
-      "id": "5e1d129b011d",
-      "title": "【1150912梯次】北區EMT-1課程 學術科及補考合格名單(含應下梯次補考之不合格名單)",
+      "id": "0b8487b68303",
+      "title": "【1150912梯次】北區EMT-1課程 學術科及補考合格名單",
       "source": "中華緊急救護技術員協會",
       "cat": "台灣協會",
       "type": "course",
