@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T02:47:40.373696+00:00",
+  "updated": "2026-10-16T07:54:33.770090+00:00",
   "count": 327,
   "course_count": 173,
   "news_count": 154,
@@ -495,6 +495,16 @@
       "url": "http://www.trauma.org.tw/news/index.asp?/77.html"
     },
     {
+      "id": "5132f2172238",
+      "title": "【甄審資訊】115年專科醫師甄審筆試地點公告...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/88.html"
+    },
+    {
       "id": "3b7a9db31d43",
       "title": "【論文邀稿資訊】116年年會暨學術演講會邀稿，敬請全體會員踴躍投稿...",
       "source": "台灣外傷醫學會",
@@ -513,16 +523,6 @@
       "date": null,
       "deadline": null,
       "url": "http://www.trauma.org.tw/news/index.asp?/78.html"
-    },
-    {
-      "id": "1cfee8fade00",
-      "title": "誠徵醫學會秘書...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/74.html"
     },
     {
       "id": "86005a8326cc",
@@ -985,6 +985,26 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0e00976c95ae444c976c7ad92105cee0"
     },
     {
+      "id": "8dff92fc4507",
+      "title": "轉知 全聯會「美容醫學案例審查認定」",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/ba49e5bc78bc4681adecb243034d51fa"
+    },
+    {
+      "id": "fd2bf268e79d",
+      "title": "轉知-全聯會修訂「特定美容醫學處置暨美容醫學手術之訓練及繼續教育課程課綱」，請符合資格之醫師依最新規定辦理。",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/5e59e439ea81450492279b1c841814c0"
+    },
+    {
       "id": "f25772aa74fb",
       "title": "轉知 全聯會-「透析前高風險腎臟病人NSAIDs合理用藥宣導」",
       "source": "台灣家庭醫學醫學會",
@@ -1003,26 +1023,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/e120313abf9c41d68228d5fba8281818"
-    },
-    {
-      "id": "ee074741c59f",
-      "title": "轉知 衛福部國健署-有關兒童發展篩檢服務方案之醫師申請資格修正事宜",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/d88e0366112d48fb906632e152b80087"
-    },
-    {
-      "id": "6168d6a924ae",
-      "title": "轉知 衛福部疾管署-因應近日國內診所發生急性病毒性C型肝炎群聚事件，請各醫療機構加強落實安全注射感染管制措施",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/238fecbc0a7f4bf8ac22136cc884bc9d"
     },
     {
       "id": "249cfc761773",
@@ -2722,47 +2722,47 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=9c2d35832&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=5d6bd09d0&_ss=r"
     },
     {
-      "id": "7f0bd426cd0d",
-      "title": "B-CON Bleeding Control Kit",
+      "id": "fe95ff73d75a",
+      "title": "Combat Application Tourniquet® (C-A-T®) Gen 7 - Genuine North American Rescue",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=9c2d35832&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=5d6bd09d0&_ss=r"
     },
     {
-      "id": "ad37ec9e265d",
-      "title": "Low Titer O Whole Blood Kit - LTOWB",
+      "id": "49625ee4817d",
+      "title": "Public Access INDIVIDUAL Bleeding Control Kit - Vacuum Sealed",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=3&_sid=9c2d35832&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=5d6bd09d0&_ss=r"
     },
     {
-      "id": "4c7353f6cea7",
-      "title": "Curaplex Stop the Bleed Kit - Individual - Intermediate",
+      "id": "0d89877fc319",
+      "title": "Public Access Bleeding Control (PABC) Twin Pack",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=4&_sid=9c2d35832&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=4&_sid=5d6bd09d0&_ss=r"
     },
     {
-      "id": "b19e6d367f80",
-      "title": "Saline Lock Kit",
+      "id": "f7190bdfadbb",
+      "title": "Public Access Bleeding Control 5 Pack",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=5&_sid=9c2d35832&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=5d6bd09d0&_ss=r"
     },
     {
       "id": "715383a36e2a",
