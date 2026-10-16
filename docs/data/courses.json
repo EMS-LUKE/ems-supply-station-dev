@@ -1,39 +1,9 @@
 {
-  "updated": "2026-10-15T23:36:35.763206+00:00",
+  "updated": "2026-10-16T02:47:40.373696+00:00",
   "count": 327,
   "course_count": 173,
   "news_count": 154,
   "items": [
-    {
-      "id": "d2c7d48c5c84",
-      "title": "公告「115年十大優秀急診護理師獲選名單」",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-10-15",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1668"
-    },
-    {
-      "id": "c2c695538b62",
-      "title": "【2026第十二屆全國呼吸道插管暨心肺復甦術競賽】得獎名單",
-      "source": "中華緊急救護技術員協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": "2026-10-15",
-      "deadline": null,
-      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261015100255"
-    },
-    {
-      "id": "443ce2f4ad1f",
-      "title": "115 年臺北區(臺北、新北、基隆、宜蘭、金門、連江)醫院兒 少保護小組醫療網絡會議",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-16",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28371"
-    },
     {
       "id": "7201d6fe54db",
       "title": "急診創傷訓練課程(ETTC) 衛生福利部旗山醫院",
@@ -123,6 +93,16 @@
       "date": "2026-10-18",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28395"
+    },
+    {
+      "id": "2770f6998a0b",
+      "title": "小兒高級心臟救命術課程 APLS+PALS Provider Course 2026-10",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-22",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28358"
     },
     {
       "id": "31731e3015c5",
@@ -243,6 +223,16 @@
       "date": "2026-11-07",
       "deadline": null,
       "url": "https://miasan.com/event/wals20261107/?fbclid=IwY2xjawRuixxleHRuA2FlbQIxMABicmlkETFHbDJMVTZ0ZEF5aFFXR1N3c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHiNf2LUzOJweFDHmBDgvG9ogJyNIuWYsykxsKNd1nvYrgTGqQl1ZVN8WtHWO_aem_vHJ8ecQX3dwiLOp4TEq-jA&brid=YWdncwH-PTH6wTwISkL3dltxbfuo"
+    },
+    {
+      "id": "8977206603ef",
+      "title": "新生兒高級急救救命術(NRP)訓練課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-07",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28391"
     },
     {
       "id": "c1772c700f8e",
@@ -2732,7 +2722,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=9cd69ddfa&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=9c2d35832&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -2742,7 +2732,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=9cd69ddfa&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=9c2d35832&_ss=r"
     },
     {
       "id": "ad37ec9e265d",
@@ -2752,7 +2742,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=3&_sid=9cd69ddfa&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=3&_sid=9c2d35832&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -2762,7 +2752,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=4&_sid=9cd69ddfa&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=4&_sid=9c2d35832&_ss=r"
     },
     {
       "id": "b19e6d367f80",
@@ -2772,7 +2762,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=5&_sid=9cd69ddfa&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=5&_sid=9c2d35832&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -2943,6 +2933,26 @@
       "date": null,
       "deadline": null,
       "url": "https://emj.bmj.com/content/43/9"
+    },
+    {
+      "id": "d2c7d48c5c84",
+      "title": "公告「115年十大優秀急診護理師獲選名單」",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-10-15",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1668"
+    },
+    {
+      "id": "c2c695538b62",
+      "title": "【2026第十二屆全國呼吸道插管暨心肺復甦術競賽】得獎名單",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": "2026-10-15",
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf/GpBulletinDtl?bulletin=20261015100255"
     },
     {
       "id": "2e2da9738154",
@@ -3263,16 +3273,6 @@
       "date": "2026-09-18",
       "deadline": null,
       "url": "http://course.tsccm.org.tw/df_info.asp?/906.html"
-    },
-    {
-      "id": "10b170f9e6d5",
-      "title": "健康線上影音課程-115/9/15孩子發燒要不要看醫生？",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": "2026-09-15",
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1075"
     }
   ]
 }
