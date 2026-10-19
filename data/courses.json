@@ -1,9 +1,19 @@
 {
-  "updated": "2026-10-19T08:28:41.772670+00:00",
-  "count": 328,
+  "updated": "2026-10-19T16:13:18.638069+00:00",
+  "count": 329,
   "course_count": 176,
-  "news_count": 152,
+  "news_count": 153,
   "items": [
+    {
+      "id": "65fec62ae206",
+      "title": "醫院災害整備的「四個不知道」：做了這麼多，真的準備好了嗎？",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": "2026-10-19",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/10/blog-post_19.html"
+    },
     {
       "id": "2770f6998a0b",
       "title": "小兒高級心臟救命術課程 APLS+PALS Provider Course 2026-10",
@@ -2732,37 +2742,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=9e1634560&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=b5b0c6b9d&_ss=r"
     },
     {
-      "id": "09ea6a5c0c26",
-      "title": "Bleeder Pouch – Blue Tide Innovations",
+      "id": "fe95ff73d75a",
+      "title": "Combat Application Tourniquet® (C-A-T®) Gen 7 - Genuine North American Rescue",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/bleeder-pouch-blue-tide-innovations?_pos=2&_sid=9e1634560&_ss=r"
-    },
-    {
-      "id": "7f0bd426cd0d",
-      "title": "B-CON Bleeding Control Kit",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=3&_sid=9e1634560&_ss=r"
-    },
-    {
-      "id": "b19e6d367f80",
-      "title": "Saline Lock Kit",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=4&_sid=9e1634560&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=b5b0c6b9d&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -2772,7 +2762,27 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=9e1634560&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=b5b0c6b9d&_ss=r"
+    },
+    {
+      "id": "4110ccb750ce",
+      "title": "Tasmanian Tiger Medic Assault Pack - MK II (Standard)",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=4&_sid=b5b0c6b9d&_ss=r"
+    },
+    {
+      "id": "8d0ac32fa89d",
+      "title": "Rigid Gen 7 C-A-T® Tourniquet Case",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/rigid-gen-7-cat-tourniquet-case?_pos=5&_sid=b5b0c6b9d&_ss=r"
     },
     {
       "id": "715383a36e2a",
