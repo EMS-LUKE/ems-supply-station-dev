@@ -1,19 +1,9 @@
 {
-  "updated": "2026-10-19T22:02:26.487942+00:00",
-  "count": 329,
-  "course_count": 176,
+  "updated": "2026-10-20T03:04:28.055424+00:00",
+  "count": 326,
+  "course_count": 173,
   "news_count": 153,
   "items": [
-    {
-      "id": "65fec62ae206",
-      "title": "醫院災害整備的「四個不知道」：做了這麼多，真的準備好了嗎？",
-      "source": "台灣緊急應變管理協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": "2026-10-19",
-      "deadline": null,
-      "url": "https://temataiwan.blogspot.com/2026/10/blog-post_19.html"
-    },
     {
       "id": "2770f6998a0b",
       "title": "小兒高級心臟救命術課程 APLS+PALS Provider Course 2026-10",
@@ -53,6 +43,16 @@
       "date": "2026-10-24",
       "deadline": "2026-09-01",
       "url": "https://www.sem.org.tw/Activity/B/Details/33335"
+    },
+    {
+      "id": "e06c293aa7b7",
+      "title": "打造韌性災難醫療後勤體系 新光醫院急診醫學科",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-24",
+      "deadline": "2026-10-24",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33252"
     },
     {
       "id": "4a927816cc75",
@@ -2742,17 +2742,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=7f5e021ea&_ss=r"
-    },
-    {
-      "id": "fe95ff73d75a",
-      "title": "Combat Application Tourniquet® (C-A-T®) Gen 7 - Genuine North American Rescue",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=7f5e021ea&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=a2b26272f&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -2762,17 +2752,27 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=7f5e021ea&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=2&_sid=a2b26272f&_ss=r"
     },
     {
-      "id": "4110ccb750ce",
-      "title": "Tasmanian Tiger Medic Assault Pack - MK II (Standard)",
+      "id": "fe95ff73d75a",
+      "title": "Combat Application Tourniquet® (C-A-T®) Gen 7 - Genuine North American Rescue",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=4&_sid=7f5e021ea&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=3&_sid=a2b26272f&_ss=r"
+    },
+    {
+      "id": "f7190bdfadbb",
+      "title": "Public Access Bleeding Control 5 Pack",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=4&_sid=a2b26272f&_ss=r"
     },
     {
       "id": "0d89877fc319",
@@ -2782,7 +2782,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=5&_sid=7f5e021ea&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=5&_sid=a2b26272f&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -2955,14 +2955,14 @@
       "url": "https://emj.bmj.com/content/43/9"
     },
     {
-      "id": "c1de4193abe4",
-      "title": "精準與永續：智慧急重症鏈-從數據預警到社區永續照護的實踐與挑戰 社團法人台灣老人急重症醫學會",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-18",
-      "deadline": "2026-10-18",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33330"
+      "id": "65fec62ae206",
+      "title": "醫院災害整備的「四個不知道」：做了這麼多，真的準備好了嗎？",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": "2026-10-19",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/10/blog-post_19.html"
     },
     {
       "id": "e815a0a74ca9",
@@ -3263,36 +3263,6 @@
       "date": "2026-09-20",
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/9264d6d370e54ced8d3d1076cd78a701"
-    },
-    {
-      "id": "cbc9aef1d704",
-      "title": "2026外傷教育課程-北部地區(Ⅳ)...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-19",
-      "deadline": "2026-09-07",
-      "url": "http://www.trauma.org.tw/active/index.asp?/27.html"
-    },
-    {
-      "id": "ce4831580b27",
-      "title": "2026/09/19-20(六、日)系統性文獻回顧與統合分析工作坊(秋季班)2026-03-21",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-19",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list"
-    },
-    {
-      "id": "e2cea50802ce",
-      "title": "2026/09/19-20系統性文獻回顧與統合分析工作坊(秋季班)",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-19",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list"
     }
   ]
 }
