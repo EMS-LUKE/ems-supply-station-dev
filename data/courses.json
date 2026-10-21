@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T02:58:24.506833+00:00",
+  "updated": "2026-10-21T08:18:04.573712+00:00",
   "count": 323,
   "course_count": 171,
   "news_count": 152,
@@ -995,6 +995,16 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0e00976c95ae444c976c7ad92105cee0"
     },
     {
+      "id": "e7cf107d6f08",
+      "title": "轉知 疾管署新聞稿「國內M痘Ib病毒株病例顯著增加，疾管署呼籲風險族群儘速完成接種2劑疫苗」",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/b025bef2ec624a5aabd685ead1d4b0cb"
+    },
+    {
       "id": "8dff92fc4507",
       "title": "轉知 全聯會「美容醫學案例審查認定」",
       "source": "台灣家庭醫學醫學會",
@@ -1023,16 +1033,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/8f1ee5dbbe4f4df3bea156a22605ea79"
-    },
-    {
-      "id": "edae3ddae351",
-      "title": "115年家庭醫學科專科醫師甄審通過甄試資格審查名單",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/e120313abf9c41d68228d5fba8281818"
     },
     {
       "id": "249cfc761773",
@@ -2742,7 +2742,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=dab20d7d3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=6574cf60c&_ss=r"
     },
     {
       "id": "09ea6a5c0c26",
@@ -2752,7 +2752,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/bleeder-pouch-blue-tide-innovations?_pos=2&_sid=dab20d7d3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/bleeder-pouch-blue-tide-innovations?_pos=2&_sid=6574cf60c&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -2762,7 +2762,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=3&_sid=dab20d7d3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=3&_sid=6574cf60c&_ss=r"
     },
     {
       "id": "b19e6d367f80",
@@ -2772,7 +2772,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=4&_sid=dab20d7d3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=4&_sid=6574cf60c&_ss=r"
     },
     {
       "id": "40b63028b17c",
@@ -2782,7 +2782,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=5&_sid=dab20d7d3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=5&_sid=6574cf60c&_ss=r"
     },
     {
       "id": "715383a36e2a",
