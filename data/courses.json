@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T14:08:33.528169+00:00",
+  "updated": "2026-10-23T18:58:38.120287+00:00",
   "count": 323,
   "course_count": 170,
   "news_count": 153,
@@ -2752,47 +2752,47 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=a162e2397&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=25025666a&_ss=r"
     },
     {
-      "id": "7f0bd426cd0d",
-      "title": "B-CON Bleeding Control Kit",
+      "id": "f3b27fdbdee6",
+      "title": "The Emergency Bandage® T3™ Tactical Trauma Treatment Bandage",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=a162e2397&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=25025666a&_ss=r"
     },
     {
-      "id": "49625ee4817d",
-      "title": "Public Access INDIVIDUAL Bleeding Control Kit - Vacuum Sealed",
+      "id": "bc020bdc5218",
+      "title": "The Emergency Bandage® 6 in. (Israeli Bandage)",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=a162e2397&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=3&_sid=25025666a&_ss=r"
     },
     {
-      "id": "40b63028b17c",
-      "title": "TacMed™ Field Blood Transfusion Kit",
+      "id": "fe95ff73d75a",
+      "title": "Combat Application Tourniquet® (C-A-T®) Gen 7 - Genuine North American Rescue",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=4&_sid=a162e2397&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=4&_sid=25025666a&_ss=r"
     },
     {
-      "id": "ad37ec9e265d",
-      "title": "Low Titer O Whole Blood Kit - LTOWB",
+      "id": "8cc2252d45c1",
+      "title": "The Emergency Bandage® 4 in. (Israeli Bandage)",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=5&_sid=a162e2397&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=5&_sid=25025666a&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -2955,14 +2955,14 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
-      "id": "1c1df425b317",
-      "title": "Prev issue",
+      "id": "3375be28d9d1",
+      "title": "Current Issue",
       "source": "Emergency Medicine Journal",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://emj.bmj.com/content/43/Suppl_3"
+      "url": "https://emj.bmj.com/content/current"
     },
     {
       "id": "24c1f53121d8",
