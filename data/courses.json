@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T08:18:15.079200+00:00",
+  "updated": "2026-10-23T14:08:33.528169+00:00",
   "count": 323,
   "course_count": 170,
   "news_count": 153,
@@ -2752,7 +2752,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=b8df611cc&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=a162e2397&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -2762,7 +2762,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=b8df611cc&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=a162e2397&_ss=r"
+    },
+    {
+      "id": "49625ee4817d",
+      "title": "Public Access INDIVIDUAL Bleeding Control Kit - Vacuum Sealed",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=a162e2397&_ss=r"
     },
     {
       "id": "40b63028b17c",
@@ -2772,7 +2782,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=3&_sid=b8df611cc&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=4&_sid=a162e2397&_ss=r"
     },
     {
       "id": "ad37ec9e265d",
@@ -2782,17 +2792,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=4&_sid=b8df611cc&_ss=r"
-    },
-    {
-      "id": "b19e6d367f80",
-      "title": "Saline Lock Kit",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=5&_sid=b8df611cc&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=5&_sid=a162e2397&_ss=r"
     },
     {
       "id": "715383a36e2a",
