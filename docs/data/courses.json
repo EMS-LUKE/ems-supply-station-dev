@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-26T15:50:03.117678+00:00",
-  "count": 325,
-  "course_count": 172,
+  "updated": "2026-10-26T22:17:36.549081+00:00",
+  "count": 326,
+  "course_count": 173,
   "news_count": 153,
   "items": [
     {
@@ -193,6 +193,16 @@
       "date": "2026-11-07",
       "deadline": null,
       "url": "https://miasan.com/event/wals20261107/?fbclid=IwY2xjawRuixxleHRuA2FlbQIxMABicmlkETFHbDJMVTZ0ZEF5aFFXR1N3c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHiNf2LUzOJweFDHmBDgvG9ogJyNIuWYsykxsKNd1nvYrgTGqQl1ZVN8WtHWO_aem_vHJ8ecQX3dwiLOp4TEq-jA&brid=YWdncwH-PTH6wTwISkL3dltxbfuo"
+    },
+    {
+      "id": "43db27d2a405",
+      "title": "上課通知-115.11.7 T2D Forward 糖進羅浮 台南區",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-07",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/8b4e11e99d554edea1f0f1a47d5a2707"
     },
     {
       "id": "8977206603ef",
@@ -965,6 +975,16 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/928bef7953b94372a03205a8654a5a6a"
     },
     {
+      "id": "a90e24635509",
+      "title": "T2D Forward 糖進羅浮 台南區",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/8b4e11e99d554edea1f0f1a47d5a2707"
+    },
+    {
       "id": "aa839bdac71c",
       "title": "113001-蛋白質與HMB對抗老化相關肌少醫學營養治療作用",
       "source": "台灣家庭醫學醫學會",
@@ -993,16 +1013,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/15b36a474e794a27b77b012007814d71"
-    },
-    {
-      "id": "046b34419002",
-      "title": "113004-在CBME框架下重新檢視工作場所評估(WPBA)的角色",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/60cf8bf085d84a1d9307c2ead695acc0"
     },
     {
       "id": "a850421e172e",
@@ -2752,7 +2762,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=859d07a89&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=01e4fe081&_ss=r"
     },
     {
       "id": "f3b27fdbdee6",
@@ -2762,7 +2772,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=859d07a89&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=01e4fe081&_ss=r"
     },
     {
       "id": "bc020bdc5218",
@@ -2772,7 +2782,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=3&_sid=859d07a89&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=3&_sid=01e4fe081&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -2782,7 +2792,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=4&_sid=859d07a89&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=4&_sid=01e4fe081&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -2792,7 +2802,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=859d07a89&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=01e4fe081&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -2955,14 +2965,14 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
-      "id": "3375be28d9d1",
-      "title": "Current Issue",
+      "id": "1c1df425b317",
+      "title": "Prev issue",
       "source": "Emergency Medicine Journal",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://emj.bmj.com/content/current"
+      "url": "https://emj.bmj.com/content/43/Suppl_3"
     },
     {
       "id": "907f397df2c4",
