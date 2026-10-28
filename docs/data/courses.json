@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-28T12:03:29.178325+00:00",
-  "count": 331,
-  "course_count": 176,
+  "updated": "2026-10-28T17:58:19.190761+00:00",
+  "count": 332,
+  "course_count": 177,
   "news_count": 155,
   "items": [
     {
@@ -233,6 +233,16 @@
       "date": "2026-11-07",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28396"
+    },
+    {
+      "id": "b57afeceb8c7",
+      "title": "上課通知-115.11.8(日)家醫工作坊－高雄場",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-08",
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/40a545dd1d2844378235748be70bd24a"
     },
     {
       "id": "0eaf0ada9458",
@@ -1045,6 +1055,16 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/8b4e11e99d554edea1f0f1a47d5a2707"
     },
     {
+      "id": "1470feb15c21",
+      "title": "家醫工作坊－高雄場",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/40a545dd1d2844378235748be70bd24a"
+    },
+    {
       "id": "aa839bdac71c",
       "title": "113001-蛋白質與HMB對抗老化相關肌少醫學營養治療作用",
       "source": "台灣家庭醫學醫學會",
@@ -1063,16 +1083,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/07f49bf6210d4d8ca31e61a2a32ac628"
-    },
-    {
-      "id": "c25a97a075e1",
-      "title": "113003-ad-hoc及總結性信賴授權決定",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/15b36a474e794a27b77b012007814d71"
     },
     {
       "id": "a850421e172e",
@@ -2815,6 +2825,36 @@
       "url": "https://safeguardmedical.com/blogs/news/rampart%E2%84%A2-across-the-uk-and-european-markets"
     },
     {
+      "id": "34d97b943ff2",
+      "title": "Public Access Bleeding Control Kit - Nylon",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=a7e064a42&_ss=r"
+    },
+    {
+      "id": "fe95ff73d75a",
+      "title": "Combat Application Tourniquet® (C-A-T®) Gen 7 - Genuine North American Rescue",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=a7e064a42&_ss=r"
+    },
+    {
+      "id": "49625ee4817d",
+      "title": "Public Access INDIVIDUAL Bleeding Control Kit - Vacuum Sealed",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=a7e064a42&_ss=r"
+    },
+    {
       "id": "4110ccb750ce",
       "title": "Tasmanian Tiger Medic Assault Pack - MK II (Standard)",
       "source": "Tactical Medicine Training & Equipment",
@@ -2822,7 +2862,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=1&_sid=cfb7fb09d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=4&_sid=a7e064a42&_ss=r"
     },
     {
       "id": "e3d1f06c9a38",
@@ -2832,37 +2872,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/swat-t-tourniquet?_pos=2&_sid=cfb7fb09d&_ss=r"
-    },
-    {
-      "id": "cfd2aa6fced7",
-      "title": "TacMed™ SOF® Tourniquet (Gen 5)",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=3&_sid=cfb7fb09d&_ss=r"
-    },
-    {
-      "id": "fca9fb2167db",
-      "title": "Compact First Responder Stocked Trauma Bag w/Fill Kit B",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/compact-first-responder-stocked-trauma-bag-w-fill-kit-b?_pos=4&_sid=cfb7fb09d&_ss=r"
-    },
-    {
-      "id": "20afb95f2d0d",
-      "title": "SAM® XT Extremity Tourniquet — Metal Windlass",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/sam-xt-extremity-tourniquet?_pos=5&_sid=cfb7fb09d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/swat-t-tourniquet?_pos=5&_sid=a7e064a42&_ss=r"
     },
     {
       "id": "715383a36e2a",

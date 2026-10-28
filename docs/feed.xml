@@ -5,7 +5,7 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Wed, 28 Oct 2026 12:03:29 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 17:58:19 +0000</lastBuildDate>
   <ttl>180</ttl>
   <item>
     <title>【課程】115年度輻傷事件醫療應變訓練通識課程 衛生福利部北區緊急醫療應變中心</title>
@@ -190,6 +190,14 @@
     <pubDate>2026-11-07</pubDate>
     <category>台灣新生兒科醫學會 - 台灣學會</category>
     <description>【課程】2026亞洲母乳庫國際研討會（來源：台灣新生兒科醫學會）</description>
+  </item>
+  <item>
+    <title>【課程】上課通知-115.11.8(日)家醫工作坊－高雄場</title>
+    <link>https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/40a545dd1d2844378235748be70bd24a</link>
+    <guid>https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/40a545dd1d2844378235748be70bd24a</guid>
+    <pubDate>2026-11-08</pubDate>
+    <category>台灣家庭醫學醫學會 - 台灣學會</category>
+    <description>【課程】上課通知-115.11.8(日)家醫工作坊－高雄場（來源：台灣家庭醫學醫學會）</description>
   </item>
   <item>
     <title>【消息】上課通知-115.11.8(日)2026 全方位心血管照護： 從血脂、血壓、到中風預防 Comprehensive Cardiovascular Care : From Lipids and Hypertension to Stroke Prevention in AF (Online)</title>
@@ -478,14 +486,6 @@
     <pubDate>None</pubDate>
     <category>台灣外傷醫學會 - 台灣學會</category>
     <description>【課程】115年精進外科系醫師醫療韌性訓練計畫，將辦理DSTC/DATC/DPNTC課程...（來源：台灣外傷醫學會）</description>
-  </item>
-  <item>
-    <title>【課程】2026精進外科系醫師醫療韌性國際研討會，歡迎踴躍報名...</title>
-    <link>http://www.trauma.org.tw/news/index.asp?/83.html</link>
-    <guid>http://www.trauma.org.tw/news/index.asp?/83.html</guid>
-    <pubDate>None</pubDate>
-    <category>台灣外傷醫學會 - 台灣學會</category>
-    <description>【課程】2026精進外科系醫師醫療韌性國際研討會，歡迎踴躍報名...（來源：台灣外傷醫學會）</description>
   </item>
 </channel>
 </rss>
