@@ -1,9 +1,19 @@
 {
-  "updated": "2026-10-29T03:59:38.571234+00:00",
-  "count": 330,
-  "course_count": 174,
+  "updated": "2026-10-29T12:12:40.429966+00:00",
+  "count": 331,
+  "course_count": 175,
   "news_count": 156,
   "items": [
+    {
+      "id": "17ea83fa3158",
+      "title": "從醫院到疾病照護網絡：TEMA 推動疾病照護風險管理與緊急應變規劃實務課程",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-10-29",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/10/tema.html"
+    },
     {
       "id": "ec8bf62e3318",
       "title": "【論文邀稿資訊】116年年會暨學術演講會邀稿，敬請全體會員踴躍投稿（投稿截止時間延至115年10月30日23:59:59截止）...",
@@ -1045,6 +1055,16 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/07f49bf6210d4d8ca31e61a2a32ac628"
     },
     {
+      "id": "503b75c6137c",
+      "title": "【重要公告】影音專區/雲端學習平台暫停服務通知",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/9ba8250e907e46a69fc89e36124b3fdb"
+    },
+    {
       "id": "a850421e172e",
       "title": "【重要公告】轉知衛福部公告修正「家庭醫學科專科醫師甄審原則」，並自即日生效。",
       "source": "台灣家庭醫學醫學會",
@@ -1073,16 +1093,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/971d77ae43d944aa9cda19c6bf53c14d"
-    },
-    {
-      "id": "503b75c6137c",
-      "title": "【重要公告】影音專區/雲端學習平台暫停服務通知",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/9ba8250e907e46a69fc89e36124b3fdb"
     },
     {
       "id": "8dff92fc4507",
@@ -2792,7 +2802,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=0f235c051&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=144750671&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -2802,7 +2812,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=0f235c051&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=144750671&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -2812,7 +2822,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=0f235c051&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=144750671&_ss=r"
     },
     {
       "id": "4110ccb750ce",
@@ -2822,7 +2832,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=4&_sid=0f235c051&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=4&_sid=144750671&_ss=r"
     },
     {
       "id": "e3d1f06c9a38",
@@ -2832,7 +2842,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/swat-t-tourniquet?_pos=5&_sid=0f235c051&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/swat-t-tourniquet?_pos=5&_sid=144750671&_ss=r"
     },
     {
       "id": "715383a36e2a",
