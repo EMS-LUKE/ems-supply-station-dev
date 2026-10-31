@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T16:45:54.601457+00:00",
+  "updated": "2026-10-31T20:58:47.531004+00:00",
   "count": 329,
   "course_count": 173,
   "news_count": 156,
@@ -2782,27 +2782,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=703120692&_ss=r"
-    },
-    {
-      "id": "fe95ff73d75a",
-      "title": "Combat Application Tourniquet® (C-A-T®) Gen 7 - Genuine North American Rescue",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=703120692&_ss=r"
-    },
-    {
-      "id": "0d89877fc319",
-      "title": "Public Access Bleeding Control (PABC) Twin Pack",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=3&_sid=703120692&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=d013d7706&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -2812,7 +2792,27 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=4&_sid=703120692&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=2&_sid=d013d7706&_ss=r"
+    },
+    {
+      "id": "fe95ff73d75a",
+      "title": "Combat Application Tourniquet® (C-A-T®) Gen 7 - Genuine North American Rescue",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=3&_sid=d013d7706&_ss=r"
+    },
+    {
+      "id": "0d89877fc319",
+      "title": "Public Access Bleeding Control (PABC) Twin Pack",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=4&_sid=d013d7706&_ss=r"
     },
     {
       "id": "f7190bdfadbb",
@@ -2822,7 +2822,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=703120692&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=d013d7706&_ss=r"
     },
     {
       "id": "715383a36e2a",
