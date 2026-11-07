@@ -5,7 +5,7 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Sat, 07 Nov 2026 00:39:59 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 09:37:09 +0000</lastBuildDate>
   <ttl>180</ttl>
   <item>
     <title>【課程】2026 精進外科系醫師醫療韌性賦能工作坊Beyond Damage Control to Resilient Trauma Systems 台灣外科醫學會、台灣外傷醫學會、亞東醫院</title>
@@ -46,22 +46,6 @@
     <pubDate>2026-11-07</pubDate>
     <category>台灣家庭醫學醫學會 - 台灣學會</category>
     <description>【課程】上課通知-115.11.7 T2D Forward 糖進羅浮 台南區（來源：台灣家庭醫學醫學會）</description>
-  </item>
-  <item>
-    <title>【課程】2026亞洲母乳庫國際研討會</title>
-    <link>https://tsn-neonatology.com/event_content.aspx?id=28396</link>
-    <guid>https://tsn-neonatology.com/event_content.aspx?id=28396</guid>
-    <pubDate>2026-11-07</pubDate>
-    <category>台灣新生兒科醫學會 - 台灣學會</category>
-    <description>【課程】2026亞洲母乳庫國際研討會（來源：台灣新生兒科醫學會）</description>
-  </item>
-  <item>
-    <title>【課程】臺灣兒科醫學會第268屆學術演講會</title>
-    <link>https://tsn-neonatology.com/event_content.aspx?id=28405</link>
-    <guid>https://tsn-neonatology.com/event_content.aspx?id=28405</guid>
-    <pubDate>2026-11-07</pubDate>
-    <category>台灣新生兒科醫學會 - 台灣學會</category>
-    <description>【課程】臺灣兒科醫學會第268屆學術演講會（來源：台灣新生兒科醫學會）</description>
   </item>
   <item>
     <title>【課程】上課通知-115.11.8(日)家醫工作坊－高雄場</title>
@@ -112,6 +96,14 @@
     <description>【課程】輔仁大學附設醫院婦幼聯合討論會(第二場)（來源：台灣新生兒科醫學會）</description>
   </item>
   <item>
+    <title>【課程】成立母乳庫捐乳小型發送站研討會</title>
+    <link>https://tsn-neonatology.com/event_content.aspx?id=28416</link>
+    <guid>https://tsn-neonatology.com/event_content.aspx?id=28416</guid>
+    <pubDate>2026-11-13</pubDate>
+    <category>台灣新生兒科醫學會 - 台灣學會</category>
+    <description>【課程】成立母乳庫捐乳小型發送站研討會（來源：台灣新生兒科醫學會）</description>
+  </item>
+  <item>
     <title>【課程】2026 台灣實證醫學學會學術年會</title>
     <link>https://www.tebma.org.tw/event/list/view/2c1a39f064c4a01a76c81be6669b0392</link>
     <guid>https://www.tebma.org.tw/event/list/view/2c1a39f064c4a01a76c81be6669b0392</guid>
@@ -134,6 +126,14 @@
     <pubDate>2026-11-14</pubDate>
     <category>台灣實證醫學學會 - 台灣學會</category>
     <description>【課程】2026/11/14 台灣實證醫學學會學術年會（來源：台灣實證醫學學會）</description>
+  </item>
+  <item>
+    <title>【課程】新生兒高級急救術(NRP)訓練</title>
+    <link>https://tsn-neonatology.com/event_content.aspx?id=28412</link>
+    <guid>https://tsn-neonatology.com/event_content.aspx?id=28412</guid>
+    <pubDate>2026-11-14</pubDate>
+    <category>台灣新生兒科醫學會 - 台灣學會</category>
+    <description>【課程】新生兒高級急救術(NRP)訓練（來源：台灣新生兒科醫學會）</description>
   </item>
   <item>
     <title>【消息】轉知 衛福部疾管署-公費流感抗病毒藥劑擴大使用條件適用期限延長至115年11月15日止</title>
@@ -232,12 +232,28 @@
     <description>【課程】2026外傷教育課程-桃竹苗地區(Ⅲ)...（來源：台灣外傷醫學會）</description>
   </item>
   <item>
+    <title>【課程】中區聯合病例討論會</title>
+    <link>https://tsn-neonatology.com/event_content.aspx?id=28132</link>
+    <guid>https://tsn-neonatology.com/event_content.aspx?id=28132</guid>
+    <pubDate>2026-12-12</pubDate>
+    <category>台灣新生兒科醫學會 - 台灣學會</category>
+    <description>【課程】中區聯合病例討論會（來源：台灣新生兒科醫學會）</description>
+  </item>
+  <item>
     <title>【課程】JCMIT 2026 國際醫學資訊聯合研討會</title>
     <link>https://jcmit2026.medinfo.org.tw/</link>
     <guid>https://jcmit2026.medinfo.org.tw/</guid>
     <pubDate>2026-12-19</pubDate>
     <category>台灣醫學資訊學會 - 台灣學會</category>
     <description>【課程】JCMIT 2026 國際醫學資訊聯合研討會（來源：台灣醫學資訊學會）</description>
+  </item>
+  <item>
+    <title>【課程】雲嘉區聯合病例討論會</title>
+    <link>https://tsn-neonatology.com/event_content.aspx?id=28144</link>
+    <guid>https://tsn-neonatology.com/event_content.aspx?id=28144</guid>
+    <pubDate>2026-12-19</pubDate>
+    <category>台灣新生兒科醫學會 - 台灣學會</category>
+    <description>【課程】雲嘉區聯合病例討論會（來源：台灣新生兒科醫學會）</description>
   </item>
   <item>
     <title>【課程】2026.12.19 台灣運動醫學學會年度工作坊</title>
@@ -470,22 +486,6 @@
     <pubDate>None</pubDate>
     <category>台灣急重症模擬醫學會 - 台灣學會</category>
     <description>【課程】台灣急重症模擬醫學會第四屆第二次會員大會暨學術研討會歡迎報名參加 4/20（來源：台灣急重症模擬醫學會）</description>
-  </item>
-  <item>
-    <title>【課程】台灣急重症模擬醫學會第四屆第一次會員大會暨學術研討會時間表 12/03</title>
-    <link>https://simulation.org.tw/annualconference2022-schedule/</link>
-    <guid>https://simulation.org.tw/annualconference2022-schedule/</guid>
-    <pubDate>None</pubDate>
-    <category>台灣急重症模擬醫學會 - 台灣學會</category>
-    <description>【課程】台灣急重症模擬醫學會第四屆第一次會員大會暨學術研討會時間表 12/03（來源：台灣急重症模擬醫學會）</description>
-  </item>
-  <item>
-    <title>【課程】台灣急重症模擬醫學會第四屆第一次會員大會暨學術研討會 12/03</title>
-    <link>https://simulation.org.tw/annualconference2022/</link>
-    <guid>https://simulation.org.tw/annualconference2022/</guid>
-    <pubDate>None</pubDate>
-    <category>台灣急重症模擬醫學會 - 台灣學會</category>
-    <description>【課程】台灣急重症模擬醫學會第四屆第一次會員大會暨學術研討會 12/03（來源：台灣急重症模擬醫學會）</description>
   </item>
 </channel>
 </rss>
