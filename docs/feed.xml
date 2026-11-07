@@ -5,7 +5,7 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Fri, 06 Nov 2026 18:51:32 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 00:39:59 +0000</lastBuildDate>
   <ttl>180</ttl>
   <item>
     <title>【課程】2026 精進外科系醫師醫療韌性賦能工作坊Beyond Damage Control to Resilient Trauma Systems 台灣外科醫學會、台灣外傷醫學會、亞東醫院</title>
@@ -46,14 +46,6 @@
     <pubDate>2026-11-07</pubDate>
     <category>台灣家庭醫學醫學會 - 台灣學會</category>
     <description>【課程】上課通知-115.11.7 T2D Forward 糖進羅浮 台南區（來源：台灣家庭醫學醫學會）</description>
-  </item>
-  <item>
-    <title>【課程】新生兒高級急救救命術(NRP)訓練課程</title>
-    <link>https://tsn-neonatology.com/event_content.aspx?id=28391</link>
-    <guid>https://tsn-neonatology.com/event_content.aspx?id=28391</guid>
-    <pubDate>2026-11-07</pubDate>
-    <category>台灣新生兒科醫學會 - 台灣學會</category>
-    <description>【課程】新生兒高級急救救命術(NRP)訓練課程（來源：台灣新生兒科醫學會）</description>
   </item>
   <item>
     <title>【課程】2026亞洲母乳庫國際研討會</title>
@@ -110,6 +102,14 @@
     <pubDate>2026-11-10</pubDate>
     <category>台灣新生兒科醫學會 - 台灣學會</category>
     <description>【課程】亞東醫院兒少保護醫療整合中心 成果發表暨實務研討會（來源：台灣新生兒科醫學會）</description>
+  </item>
+  <item>
+    <title>【課程】輔仁大學附設醫院婦幼聯合討論會(第二場)</title>
+    <link>https://tsn-neonatology.com/event_content.aspx?id=28392</link>
+    <guid>https://tsn-neonatology.com/event_content.aspx?id=28392</guid>
+    <pubDate>2026-11-12</pubDate>
+    <category>台灣新生兒科醫學會 - 台灣學會</category>
+    <description>【課程】輔仁大學附設醫院婦幼聯合討論會(第二場)（來源：台灣新生兒科醫學會）</description>
   </item>
   <item>
     <title>【課程】2026 台灣實證醫學學會學術年會</title>
@@ -214,6 +214,14 @@
     <pubDate>2026-12-05</pubDate>
     <category>台灣新生兒科醫學會 - 台灣學會</category>
     <description>【課程】新生兒高級急救救命術(NRP)訓練課程 時（來源：台灣新生兒科醫學會）</description>
+  </item>
+  <item>
+    <title>【課程】115年會暨學術研討會</title>
+    <link>https://tsn-neonatology.com/event_content.aspx?id=28402</link>
+    <guid>https://tsn-neonatology.com/event_content.aspx?id=28402</guid>
+    <pubDate>2026-12-06</pubDate>
+    <category>台灣新生兒科醫學會 - 台灣學會</category>
+    <description>【課程】115年會暨學術研討會（來源：台灣新生兒科醫學會）</description>
   </item>
   <item>
     <title>【課程】2026外傷教育課程-桃竹苗地區(Ⅲ)...</title>
@@ -478,14 +486,6 @@
     <pubDate>None</pubDate>
     <category>台灣急重症模擬醫學會 - 台灣學會</category>
     <description>【課程】台灣急重症模擬醫學會第四屆第一次會員大會暨學術研討會 12/03（來源：台灣急重症模擬醫學會）</description>
-  </item>
-  <item>
-    <title>【課程】建構以EPA為導向的模擬醫學教育 12/18</title>
-    <link>https://simulation.org.tw/class1218/</link>
-    <guid>https://simulation.org.tw/class1218/</guid>
-    <pubDate>None</pubDate>
-    <category>台灣急重症模擬醫學會 - 台灣學會</category>
-    <description>【課程】建構以EPA為導向的模擬醫學教育 12/18（來源：台灣急重症模擬醫學會）</description>
   </item>
 </channel>
 </rss>
