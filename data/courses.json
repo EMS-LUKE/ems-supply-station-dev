@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-08T12:42:19.399246+00:00",
-  "count": 322,
+  "updated": "2026-11-08T19:22:58.419896+00:00",
+  "count": 323,
   "course_count": 161,
-  "news_count": 161,
+  "news_count": 162,
   "items": [
     {
       "id": "b57afeceb8c7",
@@ -865,6 +865,16 @@
       "url": "https://www.medinfo.org.tw"
     },
     {
+      "id": "9c1b6c4691ec",
+      "title": "2026下半年醫資管理師/分析師檢定考場公告，請見附件。",
+      "source": "台灣醫學資訊學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.medinfo.org.tw"
+    },
+    {
       "id": "a6f354046363",
       "title": "【代轉】誠摯邀請參加10/16(五)2026台灣健康大數據整合服務平台年會 - 推動可信任研究環境：從原則走向可落實的信任機制，歡迎踴躍報名參加！",
       "source": "台灣醫學資訊學會",
@@ -955,6 +965,16 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/0e00976c95ae444c976c7ad92105cee0"
     },
     {
+      "id": "e5f5bf7b6111",
+      "title": "【課前通知】115年家庭醫師整合性照護計畫暨地區醫院全人全社區照護計畫訓練課程-中國醫藥大學-行政管理-11/15場次",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/7dc5d312a6ad41758e2c044df0fe5d9d"
+    },
+    {
       "id": "5f91e81892cf",
       "title": "【課前通知】115年家庭醫師整合性照護計畫訓練課程-中國醫藥大學-其他專科專業教育-11/8場次",
       "source": "台灣家庭醫學醫學會",
@@ -973,16 +993,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/490e6f8941ad403fbca9d254d93feab0"
-    },
-    {
-      "id": "da14b48888bd",
-      "title": "【公告】本學會明(116)年 三場研討會 時間異動通知，敬請欲報名參加者提早規劃行程",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/971d77ae43d944aa9cda19c6bf53c14d"
     },
     {
       "id": "249cfc761773",
@@ -2692,7 +2702,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=4f233f470&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=01d98370b&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -2702,7 +2712,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=4f233f470&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=01d98370b&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -2712,7 +2722,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=4f233f470&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=01d98370b&_ss=r"
     },
     {
       "id": "cfd2aa6fced7",
@@ -2722,7 +2732,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=4&_sid=4f233f470&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=4&_sid=01d98370b&_ss=r"
     },
     {
       "id": "f7190bdfadbb",
@@ -2732,7 +2742,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=4f233f470&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=01d98370b&_ss=r"
     },
     {
       "id": "715383a36e2a",
