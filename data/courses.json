@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T05:26:25.937222+00:00",
+  "updated": "2026-11-12T14:34:20.101240+00:00",
   "count": 328,
   "course_count": 164,
   "news_count": 164,
@@ -133,16 +133,6 @@
       "date": "2026-11-21",
       "deadline": null,
       "url": "http://www.trauma.org.tw/active/index.asp?/31.html"
-    },
-    {
-      "id": "27e62879c6ba",
-      "title": "外傷登錄訓練課程－再認證(中部場次)...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-22",
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/active/index.asp?/33.html"
     },
     {
       "id": "72a765ac53c9",
@@ -423,6 +413,16 @@
       "date": null,
       "deadline": null,
       "url": "http://www.trauma.org.tw/active/index.asp?/23.html"
+    },
+    {
+      "id": "4bc9cbe8a0fb",
+      "title": "【ATLS課表公告】115年第14及15梯次ATLS再認證課程（彰化基督教醫院）...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/93.html"
     },
     {
       "id": "ac1f06148f8a",
@@ -995,14 +995,24 @@
       "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/b4e9e88f352045ac89ef57f5afdb3746"
     },
     {
-      "id": "e4aa49328311",
-      "title": "TSBIWH®_第十一屆專業傷口照護訓練課程簡章(招生附件)_20261104.pdf",
+      "id": "540bf270fed2",
+      "title": "2026_Agenda 第二屆大林慈濟醫院整形外科國際研討會_更新.png",
       "source": "臺灣燒傷暨傷口照護學會",
       "cat": "台灣學會",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.burn.org.tw/attachments/article/307/TSBIWH®_第十一屆專業傷口照護訓練課程簡章(招生附件)_20261104.pdf"
+      "url": "https://www.burn.org.tw/attachments/article/308/2026_Agenda 第二屆大林慈濟醫院整形外科國際研討會_更新.png"
+    },
+    {
+      "id": "1ac718b6e065",
+      "title": "榮獲EWMA國際認證｜【課程招生】第十一屆專業傷口照護訓練課程，開放報名！",
+      "source": "臺灣燒傷暨傷口照護學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.burn.org.tw/index.php/news/25-the-project/307-ewma"
     },
     {
       "id": "fb38c785d1dd",
@@ -1015,6 +1025,16 @@
       "url": "https://www.burn.org.tw/index.php/news/25-the-project/306-2026woundexpert-icw-"
     },
     {
+      "id": "e4aa49328311",
+      "title": "TSBIWH®_第十一屆專業傷口照護訓練課程簡章(招生附件)_20261104.pdf",
+      "source": "臺灣燒傷暨傷口照護學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.burn.org.tw/attachments/article/307/TSBIWH®_第十一屆專業傷口照護訓練課程簡章(招生附件)_20261104.pdf"
+    },
+    {
       "id": "249cfc761773",
       "title": "Woundexpert ICW 國際傷口師認證課程 台中場(中山醫)招生簡章_修.pdf",
       "source": "臺灣燒傷暨傷口照護學會",
@@ -1023,26 +1043,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.burn.org.tw/attachments/article/306/Woundexpert ICW 國際傷口師認證課程 台中場(中山醫)招生簡章_修.pdf"
-    },
-    {
-      "id": "96c29d1bd3e6",
-      "title": "【大會議程更新｜延長報名】2026年會暨國際學術研討會",
-      "source": "臺灣燒傷暨傷口照護學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.burn.org.tw/index.php/news/25-the-project/302-2026"
-    },
-    {
-      "id": "84fb617b4961",
-      "title": "【大會議程公告｜延長報名】2026年會暨國際學術研討會",
-      "source": "臺灣燒傷暨傷口照護學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.burn.org.tw/index.php/news/25-the-project/302-2026"
     },
     {
       "id": "c3ad57b84ebf",
@@ -2712,7 +2712,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=53d27f8f3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=9c231e4a3&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -2722,7 +2722,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=2&_sid=53d27f8f3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=2&_sid=9c231e4a3&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -2732,7 +2732,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=3&_sid=53d27f8f3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=3&_sid=9c231e4a3&_ss=r"
     },
     {
       "id": "cfd2aa6fced7",
@@ -2742,7 +2742,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=4&_sid=53d27f8f3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=4&_sid=9c231e4a3&_ss=r"
     },
     {
       "id": "f7190bdfadbb",
@@ -2752,7 +2752,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=53d27f8f3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=9c231e4a3&_ss=r"
     },
     {
       "id": "715383a36e2a",
