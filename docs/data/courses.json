@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-12T14:34:20.101240+00:00",
-  "count": 328,
+  "updated": "2026-11-12T21:47:09.367224+00:00",
+  "count": 332,
   "course_count": 164,
-  "news_count": 164,
+  "news_count": 168,
   "items": [
     {
       "id": "3ecafedc2376",
@@ -2345,6 +2345,46 @@
       "url": "https://www.foamfrat.com/shop-merch"
     },
     {
+      "id": "70d34a5fccd1",
+      "title": "JOIN TODAY",
+      "source": "The Medical Lounge",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.themedicallounge.co.uk/bundles/Prehospital-Academy"
+    },
+    {
+      "id": "0698483439b7",
+      "title": "Enroll for free",
+      "source": "The Medical Lounge",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.themedicallounge.co.uk/enroll/3262146"
+    },
+    {
+      "id": "a56497f44850",
+      "title": "View more courses",
+      "source": "The Medical Lounge",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.themedicallounge.co.uk/collections"
+    },
+    {
+      "id": "222cb12ad6aa",
+      "title": "Join Today!",
+      "source": "The Medical Lounge",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.themedicallounge.co.uk/bundles/Prehospital-Academy"
+    },
+    {
       "id": "37c0eeae5854",
       "title": "C-TECC Hosts Workshop at ATMC 2026",
       "source": "C-TECC",
@@ -2385,8 +2425,8 @@
       "url": "https://www.c-tecc.org/index.php/our-work/newsletters"
     },
     {
-      "id": "f6e4526fa6bc",
-      "title": "TECC Guidelines Amendment Requests",
+      "id": "63b65a592bac",
+      "title": "TECC Guidelines Amendment Request",
       "source": "C-TECC",
       "cat": "戰術救護",
       "type": "news",
@@ -2712,7 +2752,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=9c231e4a3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=2ee723f68&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -2722,7 +2762,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=2&_sid=9c231e4a3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=2&_sid=2ee723f68&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -2732,7 +2772,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=3&_sid=9c231e4a3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=3&_sid=2ee723f68&_ss=r"
     },
     {
       "id": "cfd2aa6fced7",
@@ -2742,7 +2782,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=4&_sid=9c231e4a3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=4&_sid=2ee723f68&_ss=r"
     },
     {
       "id": "f7190bdfadbb",
@@ -2752,7 +2792,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=9c231e4a3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=2ee723f68&_ss=r"
     },
     {
       "id": "715383a36e2a",
