@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-13T04:40:08.440529+00:00",
-  "count": 332,
-  "course_count": 164,
+  "updated": "2026-11-13T13:51:44.636416+00:00",
+  "count": 333,
+  "course_count": 165,
   "news_count": 168,
   "items": [
     {
@@ -13,16 +13,6 @@
       "date": "2026-11-13",
       "deadline": "2026-11-13",
       "url": "https://www.sem.org.tw/Activity/B/Details/33440"
-    },
-    {
-      "id": "cef05a230d1a",
-      "title": "成立母乳庫捐乳小型發送站研討會",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-13",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28416"
     },
     {
       "id": "ea308325940d",
@@ -55,16 +45,6 @@
       "url": "https://www.tebma.org.tw/event/list"
     },
     {
-      "id": "52a7e37fae3a",
-      "title": "新生兒高級急救術(NRP)訓練",
-      "source": "台灣新生兒科醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-14",
-      "deadline": null,
-      "url": "https://tsn-neonatology.com/event_content.aspx?id=28412"
-    },
-    {
       "id": "03f3d9a79297",
       "title": "2026年新生兒高級救命術NRP訓練課程",
       "source": "台灣新生兒科醫學會",
@@ -85,6 +65,16 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28365"
     },
     {
+      "id": "52a7e37fae3a",
+      "title": "新生兒高級急救術(NRP)訓練",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-14",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28412"
+    },
+    {
       "id": "24e1fe585edd",
       "title": "轉知 衛福部疾管署-公費流感抗病毒藥劑擴大使用條件適用期限延長至115年11月15日止",
       "source": "台灣家庭醫學醫學會",
@@ -103,6 +93,16 @@
       "date": "2026-11-15",
       "deadline": null,
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28407"
+    },
+    {
+      "id": "ca127d4bd7b1",
+      "title": "國泰綜合醫院新生兒高級急救術(NRP)訓練課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-15",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28410"
     },
     {
       "id": "e41ccd3144ef",
@@ -303,6 +303,16 @@
       "date": "2027-01-04",
       "deadline": "2026-10-15",
       "url": "https://www.sem.org.tw/Activity/A/Details/33459"
+    },
+    {
+      "id": "cf5d4a9b3e2b",
+      "title": "NRP新生兒高級救命術認證課程",
+      "source": "台灣新生兒科醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2027-01-17",
+      "deadline": null,
+      "url": "https://tsn-neonatology.com/event_content.aspx?id=28382"
     },
     {
       "id": "ebc0b5bb46b1",
@@ -2752,7 +2762,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=7e14f1ed6&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=dca4eb93a&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -2762,7 +2772,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=2&_sid=7e14f1ed6&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=2&_sid=dca4eb93a&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -2772,7 +2782,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=3&_sid=7e14f1ed6&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=3&_sid=dca4eb93a&_ss=r"
     },
     {
       "id": "cfd2aa6fced7",
@@ -2782,7 +2792,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=4&_sid=7e14f1ed6&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=4&_sid=dca4eb93a&_ss=r"
     },
     {
       "id": "f7190bdfadbb",
@@ -2792,7 +2802,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=7e14f1ed6&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=dca4eb93a&_ss=r"
     },
     {
       "id": "715383a36e2a",
