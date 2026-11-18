@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-17T15:56:35.113919+00:00",
-  "count": 329,
-  "course_count": 161,
+  "updated": "2026-11-18T00:28:00.736162+00:00",
+  "count": 327,
+  "course_count": 159,
   "news_count": 168,
   "items": [
     {
@@ -2705,6 +2705,16 @@
       "url": "https://safeguardmedical.com/blogs/news/rampart%E2%84%A2-across-the-uk-and-european-markets"
     },
     {
+      "id": "34d97b943ff2",
+      "title": "Public Access Bleeding Control Kit - Nylon",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=956a2e868&_ss=r"
+    },
+    {
       "id": "fe95ff73d75a",
       "title": "Combat Application Tourniquet® (C-A-T®) Gen 7 - Genuine North American Rescue",
       "source": "Tactical Medicine Training & Equipment",
@@ -2712,7 +2722,27 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=1&_sid=be234913b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=956a2e868&_ss=r"
+    },
+    {
+      "id": "49625ee4817d",
+      "title": "Public Access INDIVIDUAL Bleeding Control Kit - Vacuum Sealed",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=956a2e868&_ss=r"
+    },
+    {
+      "id": "2acb86d87652",
+      "title": "Individual Aid Kit",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/nar-individual-aid-kit?_pos=4&_sid=956a2e868&_ss=r"
     },
     {
       "id": "cfd2aa6fced7",
@@ -2722,37 +2752,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=2&_sid=be234913b&_ss=r"
-    },
-    {
-      "id": "fa89f34f17ad",
-      "title": "Tasmanian Tiger Small Medic Pack - MKII",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-small-medic-pack-mkii?_pos=3&_sid=be234913b&_ss=r"
-    },
-    {
-      "id": "24f058143cdf",
-      "title": "Altama OTB Maritime Assault Boot - Mid Height",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/altama-otb-maritime-assault-boot-mid-height?_pos=4&_sid=be234913b&_ss=r"
-    },
-    {
-      "id": "20afb95f2d0d",
-      "title": "SAM® XT Extremity Tourniquet — Metal Windlass",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/sam-xt-extremity-tourniquet?_pos=5&_sid=be234913b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=5&_sid=956a2e868&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -3273,26 +3273,6 @@
       "date": "2026-10-19",
       "deadline": null,
       "url": "https://temataiwan.blogspot.com/2026/10/blog-post_19.html"
-    },
-    {
-      "id": "e815a0a74ca9",
-      "title": "2026/10/18(日)第八屆第二次會員大會暨學術研討會(精準與永續：智慧急重症鏈－從數據預警到社區永續照護的實踐與挑戰)",
-      "source": "台灣老人急重症醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-18",
-      "deadline": null,
-      "url": "http://www.sgecm.org.tw/educate/edu_info.asp?id=1724"
-    },
-    {
-      "id": "c822b11d6397",
-      "title": "115.10.18秋季學術研討會通知（早鳥優惠115年9月20日前）",
-      "source": "台灣家庭醫學醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-18",
-      "deadline": "2026-09-20",
-      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/edu/scheduleInfo1/schedule/f9715ce06c6d492ebb253e16782f660e"
     }
   ]
 }
