@@ -1,9 +1,19 @@
 {
-  "updated": "2026-11-23T01:25:52.629920+00:00",
-  "count": 328,
-  "course_count": 164,
-  "news_count": 164,
+  "updated": "2026-11-23T11:44:13.121114+00:00",
+  "count": 332,
+  "course_count": 165,
+  "news_count": 167,
   "items": [
+    {
+      "id": "072efc21eafd",
+      "title": "《當災害發生在醫院》發電機沒有壞，醫院卻被迫全面疏散",
+      "source": "台灣緊急應變管理協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": "2026-11-23",
+      "deadline": null,
+      "url": "https://temataiwan.blogspot.com/2026/11/blog-post_23.html"
+    },
     {
       "id": "72a765ac53c9",
       "title": "115年急診進階超音波課程-第三場 社團法人台灣急診醫學會、中國醫藥大學附設醫院急診部",
@@ -155,6 +165,16 @@
       "url": "https://tsn-neonatology.com/event_content.aspx?id=28132"
     },
     {
+      "id": "c14a6aad8e30",
+      "title": "2027年WONCA亞太區域會議將於2027年4月22-25日於香港舉行！投稿延長至115/12/15止",
+      "source": "台灣家庭醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-12-15",
+      "deadline": "2026-12-15",
+      "url": "https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/9d86e6f7179a4ea180d5482eb5386762"
+    },
+    {
       "id": "62570103abc2",
       "title": "JCMIT 2026 國際醫學資訊聯合研討會",
       "source": "台灣醫學資訊學會",
@@ -263,6 +283,16 @@
       "date": "2027-01-04",
       "deadline": "2026-10-15",
       "url": "https://www.sem.org.tw/Activity/A/Details/33459"
+    },
+    {
+      "id": "a613d2e06684",
+      "title": "急診超音波師培課程-第一階段pretest 社團法人台灣急診醫學會、中國醫藥大學附設醫院急診部",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2027-01-20",
+      "deadline": "2026-12-24",
+      "url": "https://www.sem.org.tw/Activity/A/Details/33527"
     },
     {
       "id": "ebc0b5bb46b1",
@@ -827,6 +857,16 @@
     {
       "id": "fbce3e42c088",
       "title": "訂購《醫療資訊雜誌》價格調漲公告！",
+      "source": "台灣醫學資訊學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.medinfo.org.tw"
+    },
+    {
+      "id": "4a34d6b45756",
+      "title": "2026下半年醫學資訊管理師/分析師檢定考試題目暨答案公告",
       "source": "台灣醫學資訊學會",
       "cat": "台灣學會",
       "type": "news",
@@ -2722,7 +2762,37 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=25a3d036f&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=001e267de&_ss=r"
+    },
+    {
+      "id": "ff8c1aa2d07d",
+      "title": "TrueClot Inguinal Packing Trainer (IPT)",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=2&_sid=001e267de&_ss=r"
+    },
+    {
+      "id": "5224942b5b77",
+      "title": "html sitemap blogs",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=3&_sid=001e267de&_ss=r"
+    },
+    {
+      "id": "ca8d21614ded",
+      "title": "html sitemap",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=4&_sid=001e267de&_ss=r"
     },
     {
       "id": "e98a59a12ad9",
@@ -2733,36 +2803,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tactical-medicine.com/products/bloodboxx%E2%84%A2-ems?_pos=2&_sid=25a3d036f&_ss=r"
-    },
-    {
-      "id": "ff8c1aa2d07d",
-      "title": "TrueClot Inguinal Packing Trainer (IPT)",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=3&_sid=25a3d036f&_ss=r"
-    },
-    {
-      "id": "0b8855dcfded",
-      "title": "StatPacks G3+ MEDSLINGER",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/statpacks-g3-medslinger?_pos=4&_sid=25a3d036f&_ss=r"
-    },
-    {
-      "id": "a98989cd941e",
-      "title": "StatPacks G3 LOAD-N-GO Backpack",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/statpacks-g3-load-n-go-backpack?_pos=5&_sid=25a3d036f&_ss=r"
     },
     {
       "id": "715383a36e2a",
